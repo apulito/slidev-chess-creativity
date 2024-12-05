@@ -10,7 +10,7 @@ This repository contains the project used for the seminar using [Slidev](https:/
 🛑 **Note:** The seminar is conducted in Italian IT.
 
 ## 🚀 Demo 
-Access the slides here: [site](apulito.github.io/slidev-chess-creativity/)
+Access the slides here: [site](https://apulito.github.io/slidev-chess-creativity)
 
 ## 🛠️ Setup 
 To start the slide show:
