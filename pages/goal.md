@@ -8,8 +8,8 @@ title: Goal
 </div>
 
 <div v-click="3" class="mt-6 italic text-left text-base border-l-4 border-gray-400 pl-4"> 
-"Alla maggior parte dei giocatori l’approccio puramente tecnico agli scacchi sembra ormai l’unica strada per accumulare punti, così la loro preparazione si basa esclusivamente su una continua ed esasperata adozione di varianti in apertura; in altre parole non sono più disposti a rinunciare al già noto per affidarsi alla propria fantasia e creatività, qualità indispensabili ad un reale e duraturo successo negli scacchi."
-</div> 
+"Nell'era del gioco online, dove la preparazione si concentra sempre più su memorizzazione e ripetizione di varianti tecniche, si rischia di perdere la gioia autentica del gioco. Noi vogliamo invertire questa tendenza: riportare il focus sulla fantasia e sull’arte negli scacchi, qualità indispensabili per un successo duraturo e un divertimento vero."
+</div>
 
 <div class="absolute bottom-6 left-6 text-xl">
   <a href="https://github.com/apulito/slidev-chess-creativity" target="_blank" class="slidev-icon-btn">

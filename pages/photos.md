@@ -2,7 +2,7 @@
 title: Photos
 ---
 
-# Viaggio
+# Il mio viaggio
 
 <!-- <div class="flex justify-center items-center mt-8 px-4"> -->
 <div class="flex justify-center items-start mt-4 px-4 h-full">
