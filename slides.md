@@ -11,7 +11,7 @@ src: ./pages/photos.md
 ---
 
 ---
-src: ./pages/openings.md
+src: ./pages/goal_fake.md
 ---
 
 ---

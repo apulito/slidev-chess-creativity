@@ -2,14 +2,14 @@
 title: openings
 ---
 
-# Aperture
+# Goal <span v-click="[1,2]" class="text-red-600 text-2xl font-bold ml-4 animate-pulse">(Fake!)</span>
 
+<div class="text-lg mt-6 block"> 
+    Esplorare le aperture con l'obiettivo di memorizzare ogni singola linea fino all'ultima mossa esaminando ogni dettaglio per affrontare il gioco con precisione e sicurezza, concentrandosi esclusivamente su varianti e linee teoriche.
+</div>
 <div class="flex flex-col items-center justify-start h-full space-y-10 mt-10">
-  
-  Ora vedremo le aperture più importanti, pronte per essere sviscerate nei minimi dettagli.
-  
+
   <div class="grid grid-cols-2 gap-12 px-8">
-    <!-- Aperture del Bianco -->
     <div>
       <h2 class="text-2xl font-semibold mb-4">Bianco</h2>
       <ul class="space-y-2 text-lg">
@@ -29,6 +29,7 @@ title: openings
       </ul>
     </div>
   </div>
+
   <div
     v-click="[1]"
     class="absolute left-1/4 top-1/2 transform -translate-y-1/2 -translate-x-1/2 w-full max-w-md h-auto"
@@ -68,6 +69,6 @@ title: openings
   </a>
 </div>
 
-<div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1" hover:bg="white op-10">
+<div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1 hover:bg-white op-10">
   <carbon:arrow-right />
 </div>
