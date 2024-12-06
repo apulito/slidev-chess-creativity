@@ -6,7 +6,7 @@ title: openings
 
 <div class="flex flex-col items-center justify-start h-full space-y-10 mt-10">
   
-  Ora vedremo le aperture più importanti, pronte per essere sviscerate nei minimi dettagli, siamo pronti?
+  Ora vedremo le aperture più importanti, pronte per essere sviscerate nei minimi dettagli.
   
   <div class="grid grid-cols-2 gap-12 px-8">
     <!-- Aperture del Bianco -->
