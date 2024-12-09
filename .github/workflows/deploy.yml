@@ -35,12 +35,10 @@ jobs:
 
       - name: Build intro
         run: | 
-          nr build ./intro/slides.md --base /${{github.event.repository.name}}/intro/ --out ../dist/intro
-          
+          nr build:intro
       - name: Build essence
         run: |
-          nr build ./essence/slides.md --base /${{github.event.repository.name}}/essence/ --out ../dist/essence
-          
+          nr build:essence
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
