@@ -7,6 +7,7 @@
     "build:intro": "slidev build ./intro/slides.md --out ./intro/dist",
     "dev:intro": "slidev --open ./intro/slides.md",
     "dev:first": "slidev --open ./creativity-essence/slides.md",
+    "build:first": "slidev build ./creativity-essence/slides.md --out ./creativity-essence/dist",
     "dev": "slidev --open",
     "export": "slidev export",
     "export:clicks": "slidev export --with-clicks"
