@@ -1,5 +1,5 @@
 ---
-title: WhoamI
+title: Who am I?
 ---
 
 # Chi Sono
