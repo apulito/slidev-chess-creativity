@@ -1,6 +1,9 @@
 ---
 # author field for exported PDF or PPTX
 author: Alberto Pulito
+# background images
+background: "./cover.jpg"
+class: text-center
 # enable Slidev's context menu, can be boolean, 'dev' or 'build'
 contextMenu: "dev"
 # enabled pdf downloading in SPA build, can also be a custom url
@@ -20,12 +23,18 @@ export:
 info: |
   # Scacchi e Creatività  
   ## L’essenza della creatività
+# defines the layout component applied to the slide
+layout: cover
 # enable presenter mode, can be boolean, 'dev' or 'build'
 presenter: "dev"
 # theme id, package name, or local path
 theme: seriph
+title: Chess and creativity essence
 ---
 
----
-src: ./pages/cover.md
----
+# Scacchi e Creatività  
+## L’essenza della creatività 
+
+<div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1" hover:bg="white op-10">
+  <carbon:arrow-right />
+</div>

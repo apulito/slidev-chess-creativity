@@ -3,11 +3,10 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "slidev build",
-    "build:intro": "slidev build ./intro/slides.md --out ./intro/dist",
+    "build:intro": "slidev build ./intro/slides.md --out ./dist",
     "dev:intro": "slidev --open ./intro/slides.md",
-    "dev:first": "slidev --open ./creativity-essence/slides.md",
-    "build:first": "slidev build ./creativity-essence/slides.md --out ./creativity-essence/dist",
+    "dev:essence": "slidev --open ./essence/slides.md",
+    "build:essence": "slidev build ./essence/slides.md --out ./dist",
     "dev": "slidev --open",
     "export": "slidev export",
     "export:clicks": "slidev export --with-clicks"

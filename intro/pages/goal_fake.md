@@ -1,5 +1,5 @@
 ---
-title: openings
+title: Goal fake
 ---
 
 # Goal <span v-click="[1,2]" class="text-red-600 text-2xl font-bold ml-4 animate-pulse">(Fake!)</span>
