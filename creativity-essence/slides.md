@@ -17,7 +17,7 @@ export:
   withClicks: false
   withToc: false
 # information for your slides, can be a Markdown string
-info: info: |
+info: |
   # Scacchi e Creatività  
   ## L’essenza della creatività
 # enable presenter mode, can be boolean, 'dev' or 'build'
