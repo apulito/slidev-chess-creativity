@@ -1,4 +1,4 @@
-name: Deploy Slidev Slides
+name: Deploy Slidev
 
 on:
   workflow_dispatch:
@@ -33,9 +33,16 @@ jobs:
       - name: Install dependencies
         run: nci
 
-      - name: Build
-        run: nr build --base /${{github.event.repository.name}}/
+      - name: Build intro
+        run: | 
+          nr build --base /${{github.event.repository.name}}/intro/
+          mv dist ../dist/intro
 
+      - name: Build creativity-essence
+        run: |
+          nr build --base /${{github.event.repository.name}}/creativity-essence/
+          mv dist ../dist/creativity-essence
+          
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
