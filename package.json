@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
+    "build:intro": "slidev build ./intro/slides.md --out ./intro/dist",
     "dev:intro": "slidev --open ./intro/slides.md",
     "dev:first": "slidev --open ./creativity-essence/slides.md",
     "dev": "slidev --open",
@@ -16,5 +17,8 @@
     "@slidev/theme-seriph": "latest",
     "slidev-theme-light-icons": "^1.0.2",
     "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "playwright-chromium": "^1.49.0"
   }
 }
