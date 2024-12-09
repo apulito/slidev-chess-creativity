@@ -35,13 +35,11 @@ jobs:
 
       - name: Build intro
         run: | 
-          nr build --base /${{github.event.repository.name}}/intro/
-          mv dist ../dist/intro
-
+          nr build ./intro/slides.md --base /${{github.event.repository.name}}/intro/ --out ../dist/intro
+          
       - name: Build creativity-essence
         run: |
-          nr build --base /${{github.event.repository.name}}/creativity-essence/
-          mv dist ../dist/creativity-essence
+          nr build ./creativity-essence/slides.md --base /${{github.event.repository.name}}/creativity-essence/ --out ../dist/creativity-essence
           
       - name: Setup Pages
         uses: actions/configure-pages@v4
