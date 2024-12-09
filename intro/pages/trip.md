@@ -1,5 +1,5 @@
 ---
-title: Photos
+title: Trip
 ---
 
 # Il mio viaggio
