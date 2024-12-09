@@ -1,4 +1,8 @@
 ---
+download: true
+---
+
+---
 src: ./pages/cover.md
 ---
 
