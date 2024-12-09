@@ -3,6 +3,7 @@
   "type": "module",
   "private": true,
   "scripts": {
+    "build": "slidev build",
     "build:intro": "slidev build ./intro/slides.md --out ./dist",
     "dev:intro": "slidev --open ./intro/slides.md",
     "dev:essence": "slidev --open ./essence/slides.md",
