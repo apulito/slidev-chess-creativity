@@ -36,6 +36,7 @@ jobs:
       - name: Build intro
         run: | 
           nr build ./intro/slides.md --base /${{github.event.repository.name}}/intro/ --out ../dist/intro
+          npx slidev export ./intro/slides.md --output ./dist/intro/intro.pdf
           
       - name: Build essence
         run: |
