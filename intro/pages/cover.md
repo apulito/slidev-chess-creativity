@@ -5,7 +5,7 @@ author: Alberto Pulito
 background: "./cover.jpg"
 class: text-center
 # enable Slidev's context menu, can be boolean, 'dev' or 'build'
-contextMenu: "dev"
+contextMenu: true
 # enabled pdf downloading in SPA build, can also be a custom url
 download: true
 # filename of the export file
@@ -20,13 +20,11 @@ export:
   withClicks: false
   withToc: false
 # information for your slides, can be a Markdown string
-info: |
-  # Scacchi e Creatività  
-  ## L'arte di pensare fuori dagli schemi
+info: false
 # defines the layout component applied to the slide
 layout: cover
 # enable presenter mode, can be boolean, 'dev' or 'build'
-presenter: "dev"
+presenter: false
 # theme id, package name, or local path
 theme: seriph
 title: Chess and creativity intro
