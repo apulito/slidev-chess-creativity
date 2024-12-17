@@ -2,7 +2,7 @@
 title: Goal fake
 ---
 
-# Goal <span v-click="[1,2]" class="text-red-600 text-2xl font-bold ml-4 animate-pulse">(Fake!)</span>
+# 🎯 Goal <span v-click="[1,2]" class="text-red-600 text-2xl font-bold ml-4 animate-pulse">(Fake!)</span>
 
 <div class="text-lg mt-6 block"> 
     Esplorare le aperture con l'obiettivo di memorizzare ogni singola linea fino all'ultima mossa esaminando ogni dettaglio per affrontare il gioco con precisione e sicurezza, concentrandosi esclusivamente su varianti e linee teoriche.

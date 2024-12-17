@@ -2,7 +2,7 @@
 title: Who am I?
 ---
 
-# Chi Sono
+# 🙋‍♂️ Chi Sono
 
 <div class="grid grid-cols-2 items-center gap-8">
   <div class="flex justify-center">
