@@ -17,3 +17,7 @@ src: ./pages/goal_fake.md
 ---
 src: ./pages/goal.md
 ---
+
+---
+src: ./pages/agenda.md
+---
