@@ -2,7 +2,7 @@
 title: Goal
 ---
 
-# Goal
+# 🎯 Goal
 
 <div class="text-lg mt-6 block"> Esplorare la creatività negli scacchi,  <span v-mark.circle.orange="1">un elemento essenziale </span> per vivere il gioco <span v-mark.red="2"> come un'arte appassionante </span> e continuare a studiare con piacere, nonostante la sua complessità e l'impegno richiesto.
 </div>
