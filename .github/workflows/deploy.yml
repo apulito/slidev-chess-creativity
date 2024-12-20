@@ -35,7 +35,8 @@ jobs:
 
       # Build Landing Page
       - name: Build Landing Page
-        run: nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist
+        run: | 
+          nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist/landing
 
       # Build Intro
       - name: Build intro
