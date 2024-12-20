@@ -33,15 +33,22 @@ jobs:
       - name: Install dependencies
         run: nci
 
+      # Build Landing Page
+      - name: Build Landing Page
+        run: nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist
+
+      # Build Intro
       - name: Build intro
         run: | 
           nr build ./intro/slides.md --base /${{github.event.repository.name}}/intro/ --out ../dist/intro
           npx slidev export ./intro/slides.md --output ./dist/intro/intro.pdf
-          
+      
+      # Build Creativity Essence
       - name: Build essence
         run: |
           nr build ./essence/slides.md --base /${{github.event.repository.name}}/essence/ --out ../dist/essence
-          
+          npx slidev export ./essence/slides.md --output ./dist/essence/essence.pdf
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
