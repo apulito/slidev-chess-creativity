@@ -1,17 +1,16 @@
 ---
-title: definition
+title: Definition
 ---
 
-## Cos'è la Creatività?
+# 🎨 Cos'è la Creatività?
 
-<div class="mt-6 text-left">
+<div v-click="1" class="mt-6 text-left text-gray-500">
   <p class="text-lg">
-    La creatività è il cuore del gioco degli scacchi, capace di dare vita a idee brillanti e innovative sulla scacchiera. Si manifesta nella capacità di trovare soluzioni non convenzionali, adattarsi a situazioni uniche e sviluppare nuove strategie, rendendo ogni mossa un'espressione di ingegno e originalità.
+    La creatività è il <span v-mark.circle.orange="1"> cuore del gioco </span>, capace di dare vita a idee brillanti e innovative sulla scacchiera. Si manifesta nella capacità di trovare soluzioni non convenzionali, adattarsi a situazioni uniche e sviluppare nuove strategie, rendendo ogni mossa un'espressione di ingegno e originalità.
   </p>
 </div>
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-8 mt-8 mx-auto max-w-screen-md">
-  <!-- Primo Video -->
+<div v-click="2" class="grid grid-cols-2 gap-4 mt-12">
   <div class="aspect-w-16 aspect-h-9">
     <iframe
       class="rounded-lg shadow-lg"
@@ -21,8 +20,6 @@ title: definition
       allowfullscreen
     ></iframe>
   </div>
-
-  <!-- Secondo Video -->
   <div class="aspect-w-16 aspect-h-9">
     <iframe
       class="rounded-lg shadow-lg"
