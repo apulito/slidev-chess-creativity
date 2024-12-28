@@ -27,7 +27,7 @@ layout: cover
 presenter: false
 # theme id, package name, or local path
 theme: seriph
-title: Chess and creativity essence
+title: Creativity essence
 ---
 
 # Scacchi e Creatività  
