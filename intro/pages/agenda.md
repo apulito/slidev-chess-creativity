@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Agenda - Parte 1
+title: Agenda - parte 1
 ---
 
 # 📅 Agenda
@@ -51,7 +51,7 @@ title: Agenda - Parte 1
 
 ---
 layout: default
-title: Agenda - Parte 2
+title: Agenda - parte 2
 ---
 
 # 📅 Agenda
