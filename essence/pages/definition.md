@@ -10,7 +10,7 @@ title: Definition
   </p>
 </div>
 
-<div v-click="2" class="grid grid-cols-2 gap-4 mt-12">
+<div v-click="2" class="grid grid-cols-2 gap-4 items-center justify-items-center mt-12">
   <div class="aspect-w-16 aspect-h-9">
     <iframe
       class="rounded-lg shadow-lg"

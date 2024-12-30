@@ -135,7 +135,7 @@ title: Timeline - parte 3
             <svg class="w-5 h-5 text-green-800 dark:text-green-300" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
         </div>
         <div class="text-center mt-4">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">La rivoluzione</h3>
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">È rivoluzione!</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1970 - 1975</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Approccio universale e innovazione nella preparazione teorica, crescente attenzione a livello globale grazie al match del secolo del 1972.
             </p>
