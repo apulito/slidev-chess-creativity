@@ -26,9 +26,9 @@ title: Timeline - parte 1
         </div>
         <div class="text-center mt-4">
             <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Scuola Classica</h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">Fine 19° - Inizio 20° Secolo</time>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1900 - 1920</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400">
-                Approccio strategico e solido.
+                Approccio strategico e solido basato su principi classici.
             </p>
             <p class="text-sm font-light text-gray-400 dark:text-gray-500">
                 Es.:  Steinitz, Lasker.
@@ -46,7 +46,7 @@ title: Timeline - parte 1
                 La scuola ipermoderna enfatizza il controllo dinamico del centro.
             </p>
             <p class="text-sm font-light text-gray-400 dark:text-gray-500">
-                Es.: Réti, Nimzowitsch.
+                Es.: Réti, Nimzowitsch, Alekhine.
             </p>
         </div>
     </div>
@@ -73,30 +73,30 @@ title: Timeline - parte 2
 
 <div class="grid grid-cols-3 gap-4 mt-12">
     <div class="flex flex-col items-center">
+        <div class="flex items-center justify-center w-10 h-10 bg-green-200 rounded-full ring-8 ring-white dark:bg-green-300 dark:ring-gray-900">
+            <svg class="w-5 h-5 text-green-600 dark:text-green-500" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
+        </div>
+        <div class="text-center mt-4">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Ascesa Sovietica</h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1940 - 1970</time>
+            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Creatività incanalata attraverso una preparazione meticolosa e rigore teorico.
+            </p>
+            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+                Es.: Botvinnik, Bronstein, Smyslov.
+            </p>
+        </div>
+    </div>
+    <div class="flex flex-col items-center">
         <div class="flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full ring-8 ring-white dark:bg-blue-900 dark:ring-gray-900">
             <svg class="w-5 h-5 text-blue-800 dark:text-blue-300" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
         </div>
         <div class="text-center mt-4">
             <h3 class="text-lg font-semibold text-gray-900 dark:text-white">L'approccio caotico</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1950 - 1960</time>
-            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Noto come “il mago di Riga”, Tal è considerato come il più grande attaccante della storia degli scacchi, caratterizzato da uno stile geniale ed imprevedibile.
+            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Noto come “il mago di Riga”, Tal è considerato come il più grande attaccante della storia degli scacchi, caratterizzato da uno stile fantasioso ed imprevedibile.
             </p>
         </div>
-    </div>
-    <div class="flex flex-col items-center">
-        <div class="flex items-center justify-center w-10 h-10 bg-green-200 rounded-full ring-8 ring-white dark:bg-green-300 dark:ring-gray-900">
-            <svg class="w-5 h-5 text-green-600 dark:text-green-500" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
-        </div>
-        <div class="text-center mt-4">
-            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Scuola Sovietica</h3>
-            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1940 - 1970</time>
-            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Creatività incanalata attraverso una preparazione meticolosa e rigore teorico.
-            </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
-                Es.: Botvinnik, Petrosian.
-            </p>
-        </div>
-    </div>
+    </div>    
     <div class="flex flex-col items-center">
         <div class="flex items-center justify-center w-10 h-10 bg-red-100 rounded-full ring-8 ring-white dark:bg-red-900 dark:ring-gray-900">
             <svg class="w-5 h-5 text-red-800 dark:text-red-300" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
@@ -130,6 +130,20 @@ title: Timeline - parte 3
 # ⏳ L'evoluzione - parte tre
 
 <div class="grid grid-cols-3 gap-4 mt-12">
+    <div class="flex flex-col items-center">
+        <div class="flex items-center justify-center w-10 h-10 bg-green-100 rounded-full ring-8 ring-white dark:bg-green-900 dark:ring-gray-900">
+            <svg class="w-5 h-5 text-green-800 dark:text-green-300" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
+        </div>
+        <div class="text-center mt-4">
+            <h3 class="text-lg font-semibold text-gray-900 dark:text-white">La rivoluzione</h3>
+            <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1970 - 1975</time>
+            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Approccio universale e innovazione nella preparazione teorica, crescente attenzione a livello globale grazie al match del secolo del 1972.
+            </p>
+            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+                Es.: Fischer, Spassky.
+            </p>
+        </div>
+    </div>
     <div class="flex flex-col items-center">
         <div class="flex items-center justify-center w-10 h-10 bg-blue-100 rounded-full ring-8 ring-white dark:bg-blue-900 dark:ring-gray-900">
             <svg class="w-5 h-5 text-blue-800 dark:text-blue-300" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 20 20"> <path d="M10 0a2 2 0 0 1 2 2v16a2 2 0 0 1-4 0V2a2 2 0 0 1 2-2Z"/> </svg>
