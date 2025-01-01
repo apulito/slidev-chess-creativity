@@ -10,7 +10,7 @@ title: Definition
   </p>
 </div>
 
-<div v-click="2" class="grid grid-cols-2 gap-4 mt-12">
+<div v-click="2" class="grid grid-cols-2 gap-4 items-center justify-items-center mt-12">
   <div class="aspect-w-16 aspect-h-9">
     <iframe
       class="rounded-lg shadow-lg"
@@ -31,15 +31,4 @@ title: Definition
   </div>
 </div>
 
-<div class="absolute bottom-6 left-6 text-xl">
-  <a href="https://github.com/apulito/slidev-chess-creativity" target="_blank" class="slidev-icon-btn">
-    <carbon:logo-github />
-  </a>
-  <a href="https://albertopulito.com" target="_blank" class="slidev-icon-btn">
-    <carbon:earth />
-  </a>
-</div>
-
-<div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1" hover:bg="white op-10">
-  <carbon:arrow-right />
-</div>
+<Footer />
