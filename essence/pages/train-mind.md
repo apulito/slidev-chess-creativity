@@ -51,28 +51,10 @@ title: train-mind - parte 2
 ---
 # 🔄 Dal Pensiero Analitico all'Intuizione Creativa
 
-<div class="grid grid-cols-3 items-center gap-8 mt-12">
-  <div class="text-center">
-    <div class="bg-green-100 w-20 h-20 mx-auto flex items-center justify-center rounded-full shadow-lg">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 text-green-500"> <path stroke-linecap="round" stroke-linejoin="round" d="M15.75 15.75V18m-7.5-6.75h.008v.008H8.25v-.008Zm0 2.25h.008v.008H8.25V13.5Zm0 2.25h.008v.008H8.25v-.008Zm0 2.25h.008v.008H8.25V18Zm2.498-6.75h.007v.008h-.007v-.008Zm0 2.25h.007v.008h-.007V13.5Zm0 2.25h.007v.008h-.007v-.008Zm0 2.25h.007v.008h-.007V18Zm2.504-6.75h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V13.5Zm0 2.25h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V18Zm2.498-6.75h.008v.008h-.008v-.008Zm0 2.25h.008v.008h-.008V13.5ZM8.25 6h7.5v2.25h-7.5V6ZM12 2.25c-1.892 0-3.758.11-5.593.322C5.307 2.7 4.5 3.65 4.5 4.757V19.5a2.25 2.25 0 0 0 2.25 2.25h10.5a2.25 2.25 0 0 0 2.25-2.25V4.757c0-1.108-.806-2.057-1.907-2.185A48.507 48.507 0 0 0 12 2.25Z" /> </svg>
-    </div>
-    <p class="mt-4 text-lg font-semibold">Fase Analitica</p>
-    <p class="mt-2 text-sm text-gray-500">
-      Conoscenza dei pattern base e complessi, comprensione delle strutture, memoria fotografica, calcolo accurato, analisi delle proprie partite, ricerca.
-    </p>
-  </div>
-  <div class="flex justify-center sm:justify-center">
-    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-6"> <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5 21 12m0 0-7.5 7.5M21 12H3" /> </svg>
-  </div>
-  <div class="text-center">
-    <div class="bg-blue-100 w-20 h-20 mx-auto flex items-center justify-center rounded-full shadow-lg">
-      <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="w-10 h-10 text-blue-500"> <path stroke-linecap="round" stroke-linejoin="round" d="M12 18v-5.25m0 0a6.01 6.01 0 0 0 1.5-.189m-1.5.189a6.01 6.01 0 0 1-1.5-.189m3.75 7.478a12.06 12.06 0 0 1-4.5 0m3.75 2.383a14.406 14.406 0 0 1-3 0M14.25 18v-.192c0-.983.658-1.823 1.508-2.316a7.5 7.5 0 1 0-7.517 0c.85.493 1.509 1.333 1.509 2.316V18" /> </svg>
-    </div>
-    <p class="mt-4 text-lg font-semibold">Fase Intuitiva</p>
-    <p class="mt-2 text-sm text-gray-500">
-      Per ottenere fiuto della posizione, senso del pericolo, senso pratico, visione combinativa, concentrazione, controllo del tempo.
-    </p>
-  </div>
-</div>
+<PieChart />
 
 <Footer />
+
+<script setup>
+  import PieChart from '../components/Chart.vue';
+</script>
