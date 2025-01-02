@@ -27,11 +27,11 @@ layout: cover
 presenter: false
 # theme id, package name, or local path
 theme: seriph
-title: Creativity essence
+title: Creativity caos
 ---
 
-# Scacchi e Creatività  
-L’essenza della creatività 
+# La Creatività nel Caos 
+Soluzioni straordinarie in situazioni intricate.
 
 <div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1" hover:bg="white op-10">
   <carbon:arrow-right />

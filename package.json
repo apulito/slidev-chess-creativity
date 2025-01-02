@@ -8,6 +8,8 @@
     "dev:intro": "slidev --open ./intro/slides.md",
     "dev:essence": "slidev --open ./essence/slides.md",
     "build:essence": "slidev build ./essence/slides.md --out ./dist",
+    "build:caos": "slidev build ./caos/slides.md --out ./dist",
+    "dev:caos": "slidev --open ./caos/slides.md",
     "dev": "slidev --open",
     "export": "slidev export",
     "export:clicks": "slidev export --with-clicks"
