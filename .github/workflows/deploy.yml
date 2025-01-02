@@ -50,6 +50,12 @@ jobs:
           nr build ./essence/slides.md --base /${{github.event.repository.name}}/essence/ --out ../dist/essence
           npx slidev export ./essence/slides.md --output ./dist/essence/essence.pdf
 
+      # Build Creativity Caos
+      - name: Build essence
+        run: |
+          nr build ./caos/slides.md --base /${{github.event.repository.name}}/caos/ --out ../dist/caos
+          npx slidev export ./caos/slides.md --output ./dist/caos/caos.pdf
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
