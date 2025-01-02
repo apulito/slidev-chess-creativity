@@ -51,7 +51,7 @@ jobs:
           npx slidev export ./essence/slides.md --output ./dist/essence/essence.pdf
 
       # Build Creativity Caos
-      - name: Build essence
+      - name: Build caos
         run: |
           nr build ./caos/slides.md --base /${{github.event.repository.name}}/caos/ --out ../dist/caos
           npx slidev export ./caos/slides.md --output ./dist/caos/caos.pdf
