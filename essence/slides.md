@@ -17,3 +17,11 @@ src: ./pages/timeline.md
 ---
 src: ./pages/train-mind.md
 ---
+
+---
+src: ./pages/puzzle.md
+---
+
+---
+src: ./pages/advice.md
+---
