@@ -82,7 +82,7 @@ title: Timeline - parte 2
         <div class="text-center mt-4">
             <h3 class="text-lg font-semibold text-gray-900 dark:text-white">L'approccio caotico</h3>
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1950 - 1960</time>
-            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Noto come “il mago di Riga”, Tal è considerato come il più grande attaccante della storia degli scacchi, caratterizzato da uno stile fantasioso ed imprevedibile.
+            <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Noto come il “Mago di Riga”, Tal è considerato come il più grande attaccante della storia degli scacchi, caratterizzato da uno stile fantasioso ed imprevedibile.
             </p>
         </div>
     </div>    
