@@ -1,6 +1,6 @@
 ---
 layout: image-right
-image: "./images/tal_1962.jpg"
+image: ./tal_pic.jpg
 title: Definition
 ---
 
