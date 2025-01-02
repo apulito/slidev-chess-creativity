@@ -6,8 +6,8 @@ title: tal - advice parte 1
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
-    <h2 class="text-xl font-semibold text-gray-800">Il Mago di Riga</h2>
-    <p class="mt-2 text-sm text-gray-500">
+    <h2 class="text-xl font-semibold text-gray-500">Il Mago di Riga</h2>
+    <p class="mt-2 text-sm text-gray-400">
       <span class="font-semibold">Autore:</span> Giorgio Fontana<br>
       <span class="font-semibold">Editore:</span> Sellerio Editore Palermo
     </p>
@@ -31,8 +31,8 @@ title: tal - advice parte 2
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
-    <h2 class="text-xl font-semibold text-gray-800">The Life and Games of Tal</h2>
-    <p class="mt-2 text-sm text-gray-500">
+    <h2 class="text-xl font-semibold text-gray-500">The Life and Games of Tal</h2>
+    <p class="mt-2 text-sm text-gray-400">
       <span class="font-semibold">Autore:</span> Mikhail Tal<br>
       <span class="font-semibold">Editore:</span> Everyman Chess
     </p>
@@ -56,8 +56,8 @@ title: tal - advice parte 3
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
-    <h2 class="text-xl font-semibold text-gray-800"> Botvinnik - Tal 1960</h2>
-    <p class="mt-2 text-sm text-gray-500">
+    <h2 class="text-xl font-semibold text-gray-500"> Botvinnik - Tal 1960</h2>
+    <p class="mt-2 text-sm text-gray-400">
       <span class="font-semibold">Autore:</span> Mikhail Tal<br>
       <span class="font-semibold">Editore:</span> Caissa
     </p>
