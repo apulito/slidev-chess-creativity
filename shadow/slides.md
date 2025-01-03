@@ -1,0 +1,4 @@
+---
+src: ./pages/cover.md
+---
+
