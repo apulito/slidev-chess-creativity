@@ -15,7 +15,7 @@ title: Timeline - parte 1
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400">
                 Il gioco era caratterizzato da sacrifici spettacolari e mosse sorprendenti. Vincere era secondario rispetto a vincere con stile.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Morphy, Anderssen.
             </p>
         </div>
@@ -30,7 +30,7 @@ title: Timeline - parte 1
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400">
                 Approccio strategico e solido basato su principi classici.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.:  Steinitz, Lasker.
             </p>
         </div>
@@ -45,7 +45,7 @@ title: Timeline - parte 1
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400">
                 La scuola ipermoderna enfatizza il controllo dinamico del centro.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Réti, Nimzowitsch, Alekhine.
             </p>
         </div>
@@ -70,7 +70,7 @@ title: Timeline - parte 2
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1940 - 1970</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Creatività incanalata attraverso una preparazione meticolosa e rigore teorico.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Botvinnik, Bronstein, Smyslov.
             </p>
         </div>
@@ -117,7 +117,7 @@ title: Timeline - parte 3
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">1970 - 1975</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Approccio universale e innovazione nella preparazione teorica, crescente attenzione a livello globale grazie al match del secolo del 1972.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Fischer, Spassky.
             </p>
         </div>
@@ -164,7 +164,7 @@ title: Timeline - parte 4
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2000 - 2017</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Approccio rivoluzionario con calcoli avanzati.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Ribka, Deep Fritz, Komodo, Stockfish.
             </p>
         </div>
@@ -189,7 +189,7 @@ title: Timeline - parte 4
             <time class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">2017 - Oggi</time>
             <p class="text-sm font-normal text-gray-500 dark:text-gray-400"> Viene sviluppato un nuovo motore scacchistico, AlphaZero, basato su un approccio completamente nuovo.
             </p>
-            <p class="text-sm font-light text-gray-400 dark:text-gray-500">
+            <p class="text-sm font-light text-gray-500 dark:text-gray-600">
                 Es.: Leela, Komodo, Stockfish.
             </p>
         </div>
