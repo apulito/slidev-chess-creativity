@@ -5,28 +5,47 @@
     </div>
     <div class="text-left">
       <ul class="mt-4 space-y-2 text-sm">
-        <li>
-          <span class="text-blue-500 font-bold">Analisi alla cieca</span>: Migliora la memoria visiva e la capacità di fotografare una posizione.
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-green-600">
+            Analisi alla cieca
+          </span>
+          <span class="text-sm text-gray-500">Fotografia della posizione.</span>
         </li>
-        <li>
-          <span class="text-blue-700 font-bold">Analisi post mortem</span>: Comprendi e correggi i tuoi errori.
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-green-700">
+            Analisi post mortem
+          </span>
+          <span class="text-gray-500">Comprensione degli errori.</span>
         </li>
-        <li>
-          <span class="text-yellow-500 font-bold">Lettura e ricerca</span>: Scopri nuove idee e strategie studiando le partite dei grandi giocatori.
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-green-800">
+            Lettura e ricerca
+          </span>
+          <span class="text-gray-500">Studio delle partite commentate.</span>
         </li>
-        <li>
-          <span class="text-red-500 font-bold">Puzzle e posizioni complesse</span>:
-          <ul class="ml-4 space-y-1">
-            <li>Pattern base</li>
-            <li>Pattern complessi</li>
-            <li>Strutture pedonali</li>
-          </ul>
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-400">
+            Pattern
+          </span>
+          <span class="text-gray-500">Schemi base e combinazione di più temi.</span>
         </li>
-        <li>
-          <span class="text-stone-400 font-bold">Aperture</span>: Impostare la partita su binari noti, garantendo una transizione fluida verso il mediogioco.
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-500">
+            Strutture pedonali
+          </span>
+          <span class="text-gray-500">Conoscenza delle strutture.</span>
         </li>
-        <li>
-          <span class="text-teal-500 font-bold">Finali</span>: Come sfruttare il potenziale dei pezzi rimasti in gioco.
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-600">
+            Attività dei pezzi
+          </span>
+          <span class="text-gray-500">Dinamicità dei movimenti.</span>
+        </li>
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-700">
+            Sicurezza del Re
+          </span>
+          <span class="text-gray-500">Bilanciamento difesa e attacco.</span>
         </li>
       </ul>
     </div>
@@ -39,7 +58,7 @@ import { Chart, DoughnutController, ArcElement, Tooltip, Legend } from "chart.js
 Chart.register(DoughnutController, ArcElement, Tooltip, Legend);
 
 export default {
-  name: "CreativityChart",
+  name: "PieChartStatic",
   mounted() {
     const ctx = this.$refs.chartRef.getContext("2d");
     new Chart(ctx, {
@@ -49,24 +68,22 @@ export default {
           "Analisi alla cieca",
           "Analisi post mortem",
           "Lettura e ricerca",
-          "Pattern base",
-          "Pattern complessi",
+          "Pattern base e complessi",
           "Strutture pedonali",
-          "Finali",
-          "Aperture",
+          "Attività dei pezzi",
+          "Sicurezza del Re",
         ],
         datasets: [
           {
-            data: [11, 11, 13, 13, 13, 13, 13, 8], 
+            data: [11, 11, 10, 17, 17, 17, 17],
             backgroundColor: [
-              "rgb(59, 130, 246)", // Blu
-              "rgb(29, 78, 216)",
-              "rgb(234, 179, 8)",  // Giallo              
-              "rgb(252, 165, 165)", // Rosso chiaro
-              "rgb(239, 68, 68)",  // Rosso
-              "rgb(153, 27, 27)", // Rosso scuro
-              "rgb(13, 148, 136)", // Teal
-              "rgb(168 162 158)", // Stone
+              "#22c55e", // green-500
+              "#16a34a", // green-600
+              "#15803d", // green-700
+              "#60a5fa", // blue-400
+              "#3b82f6", // blue-500
+              "#2563eb", // blue-600
+              "#1d4ed8", // blue-700
             ],
             hoverOffset: 6,
           },
@@ -82,14 +99,13 @@ export default {
             callbacks: {
               label: function (tooltipItem) {
                 const descriptions = [
-                  "Fotografia visiva della posizione.",
+                  "Fotografia della posizione.",
                   "Comprensione degli errori.",
-                  "Studio delle partite dei grandi.",
-                  "Imparare schemi base ricorrenti.",
-                  "Gestione di combinazione di più temi. ",
+                  "Studio delle partite commentate.",
+                  "Schemi base e combinazione di più temi.",
                   "Conoscenza delle strutture.",
-                  "Imparare manovre tecniche.",
-                  "Solida base per le aperture.",
+                  "Dinamicità dei movimenti.",
+                  "Difesa e protezione del Re.",
                 ];
                 return descriptions[tooltipItem.dataIndex];
               },
