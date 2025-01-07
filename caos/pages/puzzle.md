@@ -1,4 +1,21 @@
 ---
+title: Introduzione al Caos
+---
+
+# 🔥 Sfide sulla Scacchiera
+
+<div class="mt-6 text-left">
+  <p class="text-lg text-gray-500 leading-relaxed">
+    Nelle posizioni dinamiche e complesse, il caos non è disordine, ma un terreno fertile per rompere le convenzioni e scoprire idee inaspettate.
+  </p>
+  <p class="text-lg text-gray-500 leading-relaxed mt-4">
+    Attraverso i diagrammi che seguono vedremo come Tal trasformava situazioni intricate in capolavori, sfruttando la sua visione unica e la capacità di andare oltre la superficie delle posizioni.
+  </p>
+</div>
+
+<Footer />
+
+---
 title: puzzle - parte 1
 ---
 

@@ -1,4 +1,23 @@
 ---
+title: Intro puzzle
+---
+
+# 🌟 Sfide sulla Scacchiera
+
+<div class="mt-6 text-left">
+  <p class="text-lg text-gray-400 leading-relaxed">
+    Esplorare l'essenza della creatività significa immergersi in posizioni che mettono alla prova la nostra capacità di pensiero. Attraverso una selezione di diagrammi, scopriremo come la creatività emerge in diverse sfumature.
+  </p>
+  <p class="text-lg text-gray-400 leading-relaxed mt-4">
+    L'obiettivo è riconoscere i temi principali e trovare soluzioni che possano ispirare il nostro gioco.
+  </p>
+  <p class="text-lg text-gray-400 leading-relaxed mt-6">
+    Ogni posizione rappresenta un'opportunità per vedere come grandi maestri hanno affrontato situazioni complesse e incerte con inventiva e precisione.
+  </p>
+</div>
+<Footer />
+
+---
 title: puzzle - parte 1
 ---
 
