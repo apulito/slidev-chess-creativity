@@ -43,6 +43,12 @@
         </li>
         <li class="flex items-center space-x-2">
           <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-700">
+            Valore relativo dei pezzi
+          </span>
+          <span class="text-gray-500">Pezzi valutati secondo la situazione.</span>
+        </li>
+        <li class="flex items-center space-x-2">
+          <span class="inline-block px-2 py-1 text-xs font-medium text-white rounded-full bg-blue-900">
             Sicurezza del Re
           </span>
           <span class="text-gray-500">Bilanciamento difesa e attacco.</span>
@@ -71,19 +77,21 @@ export default {
           "Pattern base e complessi",
           "Strutture pedonali",
           "Attività dei pezzi",
+          "Valore relativo dei pezzi",
           "Sicurezza del Re",
         ],
         datasets: [
           {
-            data: [11, 11, 10, 17, 17, 17, 17],
+            data: [11, 11, 11, 13, 13, 13, 13, 13],
             backgroundColor: [
               "#22c55e", // green-500
               "#16a34a", // green-600
-              "#15803d", // green-700
+              "#15803d", // green-700              
               "#60a5fa", // blue-400
               "#3b82f6", // blue-500
               "#2563eb", // blue-600
               "#1d4ed8", // blue-700
+              "#1e3a8a", // blue-900
             ],
             hoverOffset: 6,
           },
@@ -105,6 +113,7 @@ export default {
                   "Schemi base e combinazione di più temi.",
                   "Conoscenza delle strutture.",
                   "Dinamicità dei movimenti.",
+                  "Valore relativo dei movimenti.",
                   "Difesa e protezione del Re.",
                 ];
                 return descriptions[tooltipItem.dataIndex];
