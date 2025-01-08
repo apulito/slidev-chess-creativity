@@ -5,14 +5,41 @@ title: Intro puzzle
 # 🛡️ Sfide sulla Scacchiera
 
 <div class="mt-6 text-left">
-  <p class="text-lg text-gray-500 leading-relaxed">
-    Le posizioni difensive di Petrosian erano un capolavoro di precisione e strategia. La sua capacità di anticipare le minacce, neutralizzarle e trasformarle in opportunità lo ha reso una leggenda del gioco posizionale.
+  <p class="text-lg text-gray-500 mb-6">
+    Il "sacrificio posizionale" è una delle tecniche più iconiche di Petrosian. Può essere suddiviso in tre principali tipologie, ciascuna con un obiettivo specifico e un impatto unico sulla scacchiera:
   </p>
-  <p class="text-lg text-gray-500 leading-relaxed mt-4">
-    Attraverso questi diagrammi, esploreremo come Petrosian utilizzava il "sacrificio posizionale" e altre idee difensive per ribaltare l'esito delle partite, dimostrando che la creatività non è solo attacco, ma anche una difesa impeccabile.
-  </p>
+  <div class="grid grid-cols-2 gap-6">
+    <div>
+      <ul class="space-y-4">
+        <li>
+          <span class="font-semibold">Preventivo.</span>
+          <p class="mt-1 text-sm text-gray-500">
+            Il sacrificio serve ad evitareo o prevenire una minaccia o un'idea che altrimenti sarebbe inarrestabile.
+          </p>
+        </li>
+        <li>
+          <span class="font-semibold">Posizionale.</span>
+          <p class="mt-1 text-sm text-gray-500">
+            Fattori strategici, come la creazione di una debolezza o il danneggiamento della struttura pedonale avversaria, compensano l'investimento di materiale.
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <ul class="space-y-4">
+        <li>
+          <span class="font-semibold">Tattico.</span>
+          <p class="mt-1 text-sm text-gray-500">
+            Il sacrificio permette di prendere l'iniziativa o di innescare un attacco decisivo.
+          </p>
+        </li>
+      </ul>
+    </div>
+  </div>
 </div>
+
 <Footer />
+
 
 ---
 title: puzzle - parte 1
@@ -52,12 +79,12 @@ title: puzzle - parte 2
     <img src="../images/parma-petrosian.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
     <p class="mt-2 text-xs">Posizione dopo 26.Nxe4</p>
   </div>
-  <!-- <div v-click="2" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :leave="{ opacity: 0 }" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Tal,M - Tukmakov,V - 1970</p>
-    <img src="../images/banana5.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 21...h6</p>
+  <div v-click="2" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :leave="{ opacity: 0 }" class="flex flex-col items-center">
+    <p class="text-sm font-semibold text-gray-500">Petrosian,T - Rashkovsky,N - 1976</p>
+    <img src="../images/petrosian-rashkovsky.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <p class="mt-2 text-xs">Posizione dopo 15...Ba6</p>
   </div>
-  <div v-click="3" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :leave="{ opacity: 0 }" class="flex flex-col items-center">
+  <!-- <div v-click="3" v-motion :initial="{ opacity: 0 }" :enter="{ opacity: 1 }" :leave="{ opacity: 0 }" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Keres,P - Tal,M - 1957</p>
     <img src="../images/banana6.jpg" alt="Diagram 1" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
     <p class="mt-2 text-xs">Posizione dopo 28.Ba6</p>
