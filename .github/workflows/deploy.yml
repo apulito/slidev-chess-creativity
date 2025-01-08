@@ -32,12 +32,7 @@ jobs:
 
       - name: Install dependencies
         run: nci
-
-      # Build Landing Page
-      - name: Build Landing Page
-        run: | 
-          nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist/landing
-
+              
       # Build Intro
       - name: Build intro
         run: | 
@@ -55,6 +50,12 @@ jobs:
         run: |
           nr build ./caos/slides.md --base /${{github.event.repository.name}}/caos/ --out ../dist/caos
           npx slidev export ./caos/slides.md --output ./dist/caos/caos.pdf
+
+      # Build Creativity Shadow
+      - name: Build shadow
+        run: |
+          nr build ./shadow/slides.md --base /${{github.event.repository.name}}/shadow/ --out ../dist/shadow
+          npx slidev export ./shadow/slides.md --output ./dist/shadow/shadow.pdf
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
