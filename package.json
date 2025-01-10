@@ -6,8 +6,8 @@
     "build": "slidev build",
     "build:intro": "slidev build ./intro/slides.md --out ./dist",
     "dev:intro": "slidev --open ./intro/slides.md",
-    "build:essence": "slidev build ./essence/slides.md --out ./dist",
-    "dev:essence": "slidev --open ./essence/slides.md",
+    "build:essence": "slidev build slides.md --out ./dist",
+    "dev:essence": "slidev --open slides.md",
     "build:caos": "slidev build ./caos/slides.md --out ./dist",
     "dev:caos": "slidev --open ./caos/slides.md",
     "build:shadow": "slidev build ./shadow/slides.md --out ./dist",
@@ -17,7 +17,7 @@
     "export:clicks": "slidev export --with-clicks"
   },
   "dependencies": {
-    "@slidev/cli": "^0.50.0-beta.10",
+    "@slidev/cli": "^51.0.0",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
     "chart.js": "^4.4.7",
