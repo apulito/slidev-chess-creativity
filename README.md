@@ -20,12 +20,12 @@ This repository contains the project used for the seminar using [Slidev](https:/
 ## 🛠️ Setup 
 To start the slide show:
 ```bash
-- npm install
+npm install
 ```
 
 Each folder (e.g., intro, essence) contains its own slides.md. To run a specific session:
 ```bash
-- npm run dev -- ./[session]/slides.md
+npm run dev -- ./[session]/slides.md
 ```
 And then visit <http://localhost:3030>
 
