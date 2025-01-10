@@ -37,25 +37,25 @@ jobs:
       - name: Build intro
         run: | 
           nr build ./intro/slides.md --base /${{github.event.repository.name}}/intro/ --out ../dist/intro
-          npx slidev export ./intro/slides.md --output ./dist/intro/intro.pdf
+          npx slidev export ./intro/slides.md --output ./dist/intro/downloads/intro.pdf
       
       # Build Creativity Essence
       - name: Build essence
         run: |
           nr build ./essence/slides.md --base /${{github.event.repository.name}}/essence/ --out ../dist/essence
-          npx slidev export ./essence/slides.md --output ./dist/essence/essence.pdf
+          npx slidev export ./essence/slides.md --output ./dist/essence/downloads/essence.pdf
 
       # Build Creativity Caos
       - name: Build caos
         run: |
           nr build ./caos/slides.md --base /${{github.event.repository.name}}/caos/ --out ../dist/caos
-          npx slidev export ./caos/slides.md --output ./dist/caos/caos.pdf
+          npx slidev export ./caos/slides.md --output ./dist/caos/downloads/caos.pdf
 
       # Build Creativity Shadow
       - name: Build shadow
         run: |
           nr build ./shadow/slides.md --base /${{github.event.repository.name}}/shadow/ --out ../dist/shadow
-          npx slidev export ./shadow/slides.md --output ./dist/shadow/shadow.pdf
+          npx slidev export ./shadow/slides.md --output ./dist/shadow/downloads/shadow.pdf
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
