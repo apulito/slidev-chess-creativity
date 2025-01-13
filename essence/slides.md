@@ -25,3 +25,7 @@ src: ./pages/puzzle.md
 ---
 src: ./pages/advice.md
 ---
+
+---
+src: ./pages/conclusion.md
+---
