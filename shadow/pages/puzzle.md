@@ -5,37 +5,12 @@ title: Intro puzzle
 # 🛡️ Sfide sulla Scacchiera
 
 <div class="mt-6 text-left">
-  <p class="text-lg text-gray-500 mb-6">
-    Il "sacrificio posizionale" è una delle tecniche più iconiche di Petrosian. Può essere suddiviso in tre principali tipologie, ciascuna con un obiettivo specifico e un impatto unico sulla scacchiera:
+  <p class="text-lg text-gray-500 leading-relaxed">
+    Nelle posizioni difficili e apparentemente statiche, la difesa non è solo resistenza, ma un'opportunità per creare equilibrio e sfruttare nuovi punti di forza.
   </p>
-  <div class="grid grid-cols-2 gap-6">
-    <div>
-      <ul class="space-y-4">
-        <li>
-          <span class="font-semibold">Preventivo.</span>
-          <p class="mt-1 text-sm text-gray-500">
-            Il sacrificio serve ad evitareo o prevenire una minaccia o un'idea che altrimenti sarebbe inarrestabile.
-          </p>
-        </li>
-        <li>
-          <span class="font-semibold">Posizionale.</span>
-          <p class="mt-1 text-sm text-gray-500">
-            Fattori strategici, come la creazione di una debolezza o il danneggiamento della struttura pedonale avversaria, compensano l'investimento di materiale.
-          </p>
-        </li>
-      </ul>
-    </div>
-    <div>
-      <ul class="space-y-4">
-        <li>
-          <span class="font-semibold">Tattico.</span>
-          <p class="mt-1 text-sm text-gray-500">
-            Il sacrificio permette di prendere l'iniziativa o di innescare un attacco decisivo.
-          </p>
-        </li>
-      </ul>
-    </div>
-  </div>
+  <p class="text-lg text-gray-500 leading-relaxed mt-4">
+    Nei diagrammi successivi vedremo come Petrosian sfruttava la sua profonda comprensione strategica per ribaltare le sorti delle partite, utilizzando il sacrificio posizionale come risorsa aggiuntiva.
+  </p>
 </div>
 
 <Footer />
