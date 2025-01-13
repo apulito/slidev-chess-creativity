@@ -13,7 +13,7 @@ title: Styles
 </div>
 
 <div class="grid grid-cols-2 gap-4 mt-6">
-    <div class="p-4 border-l-4 border-blue-500 shadow-lg rounded-md">
+    <div class="p-4 bg-gray-50 dark:bg-gray-900 border-l-4 border-blue-500 shadow-lg rounded-lg">
         <h2 class="text-lg font-semibold text-blue-500"> Combinatorio</h2>
         <p class="mt-2 text-sm">
             Stile che si fonda sulla capacità di costruire sequenze di mosse forzate che sfruttano aspetti specifici della posizione per raggiungere obiettivi strategici o tattici.
@@ -21,7 +21,7 @@ title: Styles
         <h4 class="mt-4 text-xs">Esempi:</h4>
         <p class="text-xs">Morphy, Tal, Fischer, Kasparov, Morozevich, Jobava, Dubov, Rapport.</p>
     </div>
-    <div class="p-4 border-l-4 border-green-500 shadow-lg rounded-md">
+    <div class="p-4 bg-gray-50 dark:bg-gray-900 border-l-4 border-green-500 shadow-lg rounded-lg">
         <h2 class="text-lg font-semibold text-green-500"> Posizionale</h2>
         <p class="mt-2 text-sm">
             Stile solido e strategico, fondato sulla forza delle strutture e del controllo. I giocatori posizionali preferiscono evitare rischi tattici, puntando a migliorare gradualmente i propri pezzi.
@@ -49,7 +49,7 @@ title: Mental approach
 </div>
 
 <div class="grid grid-cols-2 gap-4 mt-6">
-    <div class="p-4 border-l-4 border-blue-500 shadow-lg rounded-md">
+    <div class="p-4 bg-gray-50 dark:bg-gray-900 border-l-4 border-blue-500 shadow-lg rounded-lg">
         <h2 class="text-lg font-semibold text-blue-500"> Intuitivi</h2>
         <p class="mt-2 text-sm">
             Un approccio basato su una visione combinativa e decisioni istantanee, derivante dalla profonda conoscenza dello spirito della posizione.
@@ -57,7 +57,7 @@ title: Mental approach
         <h4 class="mt-4 text-xs">Esempi:</h4>
         <p class="text-xs">Capablanca, Tal, Petrosian, Karpov, Carlsen.</p>
     </div>
-    <div class="p-4 border-l-4 border-green-500 shadow-lg rounded-md">
+    <div class="p-4 bg-gray-50 dark:bg-gray-900 border-l-4 border-green-500 shadow-lg rounded-lg">
         <h2 class="text-lg font-semibold text-green-500"> Analitici</h2>
         <p class="mt-2 text-sm">
             Un approccio basato su piani profondi e calcoli accurati, che si riflette tanto nell'apertura quanto nelle altre fasi della partita, elaborando strategie a lungo termine.
