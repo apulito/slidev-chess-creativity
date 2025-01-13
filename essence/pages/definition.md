@@ -11,24 +11,8 @@ title: Definition
 </div>
 
 <div v-click="2" class="grid grid-cols-2 gap-4 items-center justify-items-center mt-12">
-  <div class="aspect-w-16 aspect-h-9">
-    <iframe
-      class="rounded-lg shadow-lg"
-      src="https://www.youtube.com/embed/mqlmVoOnj7o"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
-  </div>
-  <div class="aspect-w-16 aspect-h-9">
-    <iframe
-      class="rounded-lg shadow-lg"
-      src="https://www.youtube.com/embed/YWYLFQo_J9M"
-      frameborder="0"
-      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-      allowfullscreen
-    ></iframe>
-  </div>
+  <Youtube id="mqlmVoOnj7o" class="w-full aspect-video rounded-lg shadow-md" />
+  <Youtube id="YWYLFQo_J9M" class="w-full aspect-video rounded-lg shadow-md" />
 </div>
 
 <Footer />
