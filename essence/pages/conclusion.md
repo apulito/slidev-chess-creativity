@@ -2,20 +2,30 @@
 title: Conclusion - part 1
 ---
 
-# 🔑 Punti Chiave
+# 🔑 Conclusioni e punti chiave
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-18 mt-18">
-  <div>
-    <h3 class="text-lg font-semibold text-gray-800 dark:text-white">📜 La Storia come Guida</h3>
-    <p class="mt-2 text-base text-gray-600 dark:text-gray-400">
-      Comprendere l'evoluzione della creatività negli scacchi ci aiuta a valorizzare i contributi dei grandi maestri del passato e ad applicare i loro insegnamenti nel nostro gioco.
-    </p>
-  </div>
-  <div>
-    <h3 class="text-lg font-semibold text-gray-800 dark:text-white">🧠 Strumenti per Allenare</h3>
-    <p class="mt-2 text-base text-gray-600 dark:text-gray-400">
-      L'allenamento richiede metodo: analisi, studio dei pattern, riflessione sulle partite e comprensione delle strutture posizionali.
-    </p>
+<div class="mt-6 text-left">
+  <div class="grid grid-cols-2 gap-6">
+    <div>
+      <ul class="space-y-4">
+        <li>
+          <span class="font-semibold">📜 Storia come guida</span>
+          <p class="mt-1 text-sm text-gray-500">
+            Comprendere l'evoluzione della creatività negli scacchi ci aiuta a valorizzare i contributi dei grandi maestri del passato e ad applicare i loro insegnamenti nel nostro gioco.
+          </p>
+        </li>
+      </ul>
+    </div>
+    <div>
+      <ul class="space-y-4">
+        <li>
+          <span class="font-semibold">🧠 Strumenti e tecniche di gioco</span>
+          <p class="mt-1 text-sm text-gray-500">
+            L'allenamento richiede metodo: analisi, studio dei pattern, riflessione sulle partite e comprensione delle strutture posizionali.
+          </p>
+        </li>
+      </ul>
+    </div>
   </div>
 </div>
 
