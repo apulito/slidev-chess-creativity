@@ -16,8 +16,8 @@ title: essence - advice parte 1
     </p>
   </div>
   <div class="flex justify-center mt-4">
-    <img src="../images/improve-pattern-1.jpg" alt="The Life and Games of Mikhail Tal" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+    <img src="../images/improve-pattern-1.jpg" alt="Improve pattern vol.1" 
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 
@@ -41,8 +41,8 @@ title: essence - advice parte 3
     </p>
   </div>
   <div class="flex justify-center  mt-4">
-    <img src="../images/train-pattern-2.jpg" alt="Tal Botvinnik Match 1960" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+    <img src="../images/train-pattern-2.jpg" alt="Train pattern vol. 2" 
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 

@@ -19,8 +19,8 @@ title: shadow - advice parte 1
     </p>
   </div>
   <div class="flex justify-center mt-4">
-    <img src="../images/exchange_sacrifice.jpg" alt="The Life and Games of Mikhail Tal" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+    <img src="../images/exchange_sacrifice.jpg" alt="Exchange sacrifice" 
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 
@@ -48,8 +48,8 @@ title: essence - advice parte 3
     </blockquote>
   </div>
   <div class="flex justify-center  mt-4">
-    <img src="../images/python-strategy.jpg" alt="Tal Botvinnik Match 1960" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+    <img src="../images/python-strategy.jpg" alt="Python Strategy" 
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 
