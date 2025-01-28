@@ -14,6 +14,8 @@
     "dev:shadow": "slidev --open ./shadow/slides.md",
     "build:structures": "slidev build ./structures/slides.md --out ./dist",
     "dev:structures": "slidev --open ./structures/slides.md",
+    "build:ai": "slidev build ./ai-revolution/slides.md --out ./dist",
+    "dev:ai": "slidev --open ./ai-revolution/slides.md",
     "dev": "slidev --open",
     "export": "slidev export",
     "export:clicks": "slidev export --with-clicks"
