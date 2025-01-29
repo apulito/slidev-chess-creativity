@@ -39,7 +39,7 @@ title: pawn structure - advice parte 2
       <span class="font-semibold">Editore:</span> New In Chess
     </p>
     <p class="mt-4 text-base text-gray-600">
-      Questo primo volume esplora le strutture pedonali derivanti dalle aperture di donna, come la Nimzo-Indiana e il Gambetto di Donna. Attraverso esempi e consigli, l'autore analizza il gioco posizionale e tattico che emerge da questi setup, fornendo una guida preziosa per affrontare queste configurazioni.
+      In questo primo volume del 2009, Sokolov analizza le strutture pedonali derivanti dalle aperture di donna, come Nimzo-Indiana e Gambetto di Donna. Partendo dall'approfondimento di idee e piani strategici legati a queste configurazioni, l'autore collega le strutture pedonali alle varianti d'apertura da cui possono emergere, fornendo una guida pratica per affrontarle.
     </p>
   </div>
   <div class="flex justify-center mt-4">
