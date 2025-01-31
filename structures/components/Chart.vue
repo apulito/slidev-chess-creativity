@@ -5,19 +5,19 @@
     </div>
     <div class="text-left">
       <div class="grid grid-cols-3 gap-2 text-xs">
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-600">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-500">
           Pedone isolato
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-700">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-600">
           Carlsbad
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-800">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-700">
           Stonewall
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-400">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-800">
           Caro-Kann
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-500">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-900">
           Slava
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-600">
@@ -26,7 +26,7 @@
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-700">
           Siciliana chiusa
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-500">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-indigo-600">
           Francese
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-600">
@@ -35,7 +35,7 @@
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-700">
           Spagnola
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-500">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-800">
           Russa
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-600">
@@ -44,13 +44,13 @@
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-700">
           Benoni
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-500">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-stone-500">
           Est Indiana
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-600">
-          Centro dinamico
+          Centro sospeso
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-700">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-800">
           Panov
         </span>
       </div>
@@ -85,18 +85,19 @@ export default {
           "Benko",
           "Benoni",
           "Est Indiana",
-          "Centro dinamico",
+          "Centro sospeso",
           "Panov"
         ],
         datasets: [
           {
             data: new Array(16).fill(100 / 16),
             backgroundColor: [
-              "#22c55e", "#16a34a", "#15803d",
-              "#60a5fa", "#3b82f6", "#2563eb", "#1d4ed8",
-              "#eab308", "#d97706", "#b45309",
-              "#9333ea", "#7e22ce", "#5b21b6",
-              "#0ea5e9", "#0284c7", "#0369a1"
+              "#22c55e", "#16a34a", "#15803d", "#166534", "#14532D",
+              "#2563eb", "#1d4ed8",
+              "#4F46E5", "#d97706", "#b45309",
+              "#854D0E", "#7e22ce", "#5b21b6",
+              "#78716C", 
+              "#0284c7", "#155E75"
             ],
             hoverOffset: 6,
           },
