@@ -11,6 +11,10 @@ src: ./pages/choice.md
 ---
 
 ---
+src: ./pages/structure-map.md
+---
+
+---
 src: ./pages/conclusion.md
 ---
 
