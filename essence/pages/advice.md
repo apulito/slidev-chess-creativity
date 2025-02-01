@@ -37,7 +37,7 @@ title: essence - advice parte 2
       <span class="font-semibold">Editore:</span> New in chess
     </p>
     <p class="mt-4 text-base text-gray-600">
-      Aiuta a riconoscere similitudini con posizioni già viste per comprendere rapidamente l’essenza della posizione e individuare le mosse migliori, trasmettendo i pattern tematici più importanti del mediogioco.
+      Aiuta a riconoscere similitudini con posizioni già viste per comprendere rapidamente l'essenza della posizione e individuare le mosse migliori, trasmettendo i pattern tematici più importanti del mediogioco.
     </p>
   </div>
   <div class="flex justify-center mt-4">
