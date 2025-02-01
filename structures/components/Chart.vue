@@ -9,26 +9,23 @@
           Pedone isolato
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-600">
-          Carlsbad
+          Struttura Carlsbad
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-700">
           Stonewall
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-800">
-          Caro-Kann
+          Struttura Caro-Kann
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-green-900">
-          Slava
+          Struttura Slava
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-600">
           Siciliana aperta
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-blue-700">
           Siciliana chiusa
-        </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-indigo-600">
-          Francese
-        </span>
+        </span>        
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-600">
           Italiana
         </span>
@@ -38,8 +35,11 @@
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-yellow-800">
           Russa
         </span>
-        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-600">
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-300">
           Benko
+        </span>
+        <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-500">
+          Francese
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-purple-700">
           Benoni
@@ -72,17 +72,17 @@ export default {
       data: {
         labels: [
           "Pedone isolato",
-          "Carlsbad",
+          "Struttura Carlsbad",
           "Stonewall",
-          "Caro-Kann",
-          "Slava",
+          "Struttura Caro-Kann",
+          "Struttura Slava",
           "Siciliana aperta",
-          "Siciliana chiusa",
-          "Francese",
+          "Siciliana chiusa",          
           "Italiana",
           "Spagnola",
           "Russa",
           "Benko",
+          "Francese",
           "Benoni",
           "Est Indiana",
           "Centro sospeso",
@@ -94,10 +94,10 @@ export default {
             backgroundColor: [
               "#22c55e", "#16a34a", "#15803d", "#166534", "#14532D",
               "#2563eb", "#1d4ed8",
-              "#4F46E5", "#d97706", "#b45309",
-              "#854D0E", "#7e22ce", "#5b21b6",
+              "#d97706", "#b45309",  "#854D0E", 
+              "#D8B4FE", "#A855F7", "#7e22ce",
               "#78716C", 
-              "#0284c7", "#155E75"
+              "#0891B2", "#155E75"
             ],
             hoverOffset: 6,
           },
