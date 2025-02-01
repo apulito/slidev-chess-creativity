@@ -65,8 +65,12 @@ jobs:
       - name: Build structures
         run: |
           nr build ./structures/slides.md --base /${{github.event.repository.name}}/structures/ --out ../dist/structures
-          npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf --timeout 10000
-
+          npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf
+      
+      # Export Creativity Structures
+      - name: Export structures
+        run: npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf --timeout 10000
+      
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
