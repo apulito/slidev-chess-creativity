@@ -35,7 +35,7 @@ title: Conclusion - part 1
 title: Conclusion - part 2
 ---
 
-# 🔑 Punti Chiave
+# 🔑 Conclusioni e punti chiave
 
 <div class="mt-6">
   <h3 class="text-lg font-semibold text-gray-800 dark:text-white">🎥 Video di Approfondimento</h3>

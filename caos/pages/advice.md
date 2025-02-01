@@ -17,7 +17,7 @@ title: tal - advice parte 1
   </div>
   <div class="flex justify-center mt-4">
     <img src="../images/mago-di-riga.jpg" alt="Il Mago di Riga" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 
@@ -42,7 +42,7 @@ title: tal - advice parte 2
   </div>
   <div class="flex justify-center mt-4">
     <img src="../images/life-and-games-tal.jpg" alt="The Life and Games of Mikhail Tal" 
-         class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
   </div>
 </div>
 

@@ -5,7 +5,7 @@ title: Conclusion - Caos
 # 🔑 Conclusioni e punti chiave
 
 <div class="mt-6 text-left">
-<p class="text-lg text-gray-500 mb-6">
+  <p class="text-lg text-gray-500 mb-6">
     Il "sacrificio posizionale" è una delle tecniche più iconiche di Petrosian. Può essere quindi suddiviso in tre principali tipologie, ciascuna con un obiettivo specifico e un impatto unico sulla scacchiera:
   </p>
   <div class="grid grid-cols-2 gap-6">
