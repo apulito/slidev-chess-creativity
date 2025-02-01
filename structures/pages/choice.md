@@ -35,14 +35,14 @@ title: choice - puzzle
     <p class="mt-2 text-xs">Posizione dopo 16...Qb4</p>
   </div>  
   <div v-click="2" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Troianescu,O - Petrosian,T - 1953</p>
-    <img src="../images/troianescu-petrosian.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 25.Ne3</p>
+    <p class="text-sm font-semibold text-gray-500">Tomashavksy,E - Ganguly,S - 2007</p>
+    <img src="../images/tomashavksy-ganguly-2007.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <p class="mt-2 text-xs">Posizione dopo 15...Qxe5</p>
   </div>
   <div v-click="3" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Petrosian,T - Gligoric,S - 1962</p>
-    <img src="../images/petrosian-gligoric.jpg" alt="Diagram 3" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 26...Raf6</p>
+    <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
+    <img src="../images/kasparov-portish-1983.jpg" alt="Diagram 3" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <p class="mt-2 text-xs">Posizione dopo 16...Na5</p>
   </div>  
 </div>
 
