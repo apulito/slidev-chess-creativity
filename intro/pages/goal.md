@@ -10,7 +10,7 @@ title: Goal
 <div class="grid grid-cols-2 gap-12 mt-6"> 
   <div v-click="3" class="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg shadow-md"> 
     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Riscoprire l'Arte</h3> 
-    <p class="text-base leading-relaxed"> Nell'era del gioco online, si rischia di perdere la gioia autentica del gioco. L'obiettivo è riportare il focus sulla fantasia e sull’arte negli scacchi, qualità indispensabili per un successo duraturo e un divertimento vero. </p> 
+    <p class="text-base leading-relaxed"> Nell'era del gioco online, si rischia di perdere la gioia autentica del gioco. L'obiettivo è riportare il focus sulla fantasia e sull'arte negli scacchi, qualità indispensabili per un successo duraturo e un divertimento vero. </p> 
   </div> 
   <div v-click="4" class="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg shadow-md"> 
     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Allenare la Creatività</h3> 
