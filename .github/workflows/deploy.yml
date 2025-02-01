@@ -43,7 +43,11 @@ jobs:
       - name: Build essence
         run: |
           nr build ./essence/slides.md --base /${{github.event.repository.name}}/essence/ --out ../dist/essence
-          npx slidev export ./essence/slides.md --output ./dist/essence/downloads/essence.pdf --wait 10000
+          npx slidev export ./essence/slides.md --output ./dist/essence/downloads/essence.pdf
+      
+      # Export Creativity Essence
+      - name: Export essence
+        run: npx slidev export ./essence/slides.md --output ./dist/essence/downloads/essence.pdf --timeout 10000
 
       # Build Creativity Caos
       - name: Build caos
@@ -61,7 +65,7 @@ jobs:
       - name: Build structures
         run: |
           nr build ./structures/slides.md --base /${{github.event.repository.name}}/structures/ --out ../dist/structures
-          npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf --wait 10000
+          npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf --timeout 10000
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
