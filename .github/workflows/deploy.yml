@@ -57,6 +57,12 @@ jobs:
           nr build ./shadow/slides.md --base /${{github.event.repository.name}}/shadow/ --out ../dist/shadow
           npx slidev export ./shadow/slides.md --output ./dist/shadow/downloads/shadow.pdf
 
+      # Build Creativity Structures
+      - name: Build structures
+        run: |
+          nr build ./structures/slides.md --base /${{github.event.repository.name}}/structures/ --out ../dist/structures
+          npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 

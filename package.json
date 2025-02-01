@@ -12,6 +12,8 @@
     "dev:caos": "slidev --open ./caos/slides.md",
     "build:shadow": "slidev build ./shadow/slides.md --out ./dist",
     "dev:shadow": "slidev --open ./shadow/slides.md",
+    "build:structures": "slidev build ./structures/slides.md --out ./dist",
+    "dev:structures": "slidev --open ./structures/slides.md",
     "dev": "slidev --open",
     "export": "slidev export",
     "export:clicks": "slidev export --with-clicks"
