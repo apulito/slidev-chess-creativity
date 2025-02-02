@@ -30,15 +30,15 @@ title: puzzle - parte 1
     <p class="mt-2 text-xs">Posizione dopo 9...e6</p>
   </div> 
   <div v-click="2" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Onischuk,A - Shirov,A - 2007</p>
-    <img src="../images/onischuk-shirov-pawn-storm.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 20.h3</p>
-  </div>
-  <div v-click="3" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Manik,M - Balinov,I - 1997</p>
-    <img src="../images/manik-balinov-pawn-break.jpg" alt="Diagram 3" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <img src="../images/manik-balinov-pawn-break.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
     <p class="mt-2 text-xs">Posizione dopo 14...b5</p>
   </div>
+  <div v-click="3" class="flex flex-col items-center">
+    <p class="text-sm font-semibold text-gray-500">Negyesy,G - Gereben,E - 1951</p>
+    <img src="../images/negyesy-gereben-pawn-storm.jpg" alt="Diagram 3" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <p class="mt-2 text-xs">Posizione dopo 13...Be6</p>
+  </div>  
 </div>
 
 <Footer />
@@ -56,10 +56,10 @@ title: puzzle - parte 1 extra
     <p class="mt-2 text-xs">Posizione dopo 12.Qc2</p>
   </div>
   <div v-click="2" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Negyesy,G - Gereben,E - 1951</p>
-    <img src="../images/negyesy-gereben-pawn-storm.jpg" alt="Diagram 5" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 13...Be6</p>
-  </div>
+    <p class="text-sm font-semibold text-gray-500">Onischuk,A - Shirov,A - 2007</p>
+    <img src="../images/onischuk-shirov-pawn-storm.jpg" alt="Diagram 5" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <p class="mt-2 text-xs">Posizione dopo 20.h3</p>
+  </div>  
   <div v-click="3" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Werle,J - Tischbierek,R - 2008</p>
     <img src="../images/werle-tischbierek-pawn-sacr.jpg" alt="Diagram 6" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
