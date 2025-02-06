@@ -2,7 +2,7 @@
 title: choice
 ---
 
-# 🔍 Strutture pedonali: una scelta o una conseguenza?
+# 🔍 Una scelta o una conseguenza
 
 <div class="mt-6 text-left">
   <p class="text-lg text-gray-500 leading-relaxed">
@@ -24,9 +24,9 @@ title: choice
 title: choice - puzzle
 ---
 
-# 🧩 Diagrammi 
+# 🧩 Modificare la struttura per creare squilibri 
 
-<div class="grid grid-cols-3 gap-4 items-center justify-center mt-12">
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
   <div v-click="1" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Short,N - Timman,J - 1991</p>
     <div class="relative flex flex-col items-center">
@@ -42,11 +42,6 @@ title: choice - puzzle
     <img src="../images/tomashavksy-ganguly-2007.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
     <p class="mt-2 text-xs">Posizione dopo 15...Qxe5</p>
   </div>
-  <div v-click="3" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
-    <img src="../images/kasparov-portish-1983.jpg" alt="Diagram 3" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-    <p class="mt-2 text-xs">Posizione dopo 16...Na5</p>
-  </div>  
 </div>
 
 <Footer />
