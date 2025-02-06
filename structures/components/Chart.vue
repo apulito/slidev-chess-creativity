@@ -48,7 +48,7 @@
           Est Indiana
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-600">
-          Centro sospeso
+          Pedoni sospesi
         </span>
         <span class="inline-block px-2 py-1 font-medium text-white rounded-full bg-cyan-800">
           Panov
@@ -85,7 +85,7 @@ export default {
           "Francese",
           "Benoni",
           "Est Indiana",
-          "Centro sospeso",
+          "Pedoni sospesi",
           "Panov"
         ],
         datasets: [

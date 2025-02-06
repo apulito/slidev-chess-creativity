@@ -78,11 +78,11 @@ title: structure-map - isolani-pawn 2
 title: structure-map - hanging-pawns 1
 ---
 
-# ♟️ Mappe Strategiche: centro sospeso
+# ♟️ Mappe Strategiche: pedoni sospesi
 
 <div class="mt-6 text-left">
   <p class="text-base text-gray-500 leading-relaxed">
-    Le posizioni con il centro sospeso derivano spesso da una posizione con pedone isolato, questa struttura offre al Bianco, in questo caso, un vantaggio nel mediogioco grazie al vantaggio di spazio e al controllo delle case centrali. Tuttavia, se il Nero riesce a semplificare la posizione o bloccare i pedoni, questi possono diventare una debolezza, rendendo il finale favorevole per il Nero.
+    Le posizioni con i pedoni sospesi derivano spesso da una posizione con pedone isolato, questa struttura offre al Bianco, in questo caso, un vantaggio nel mediogioco grazie al vantaggio di spazio e al controllo delle case centrali. Tuttavia, se il Nero riesce a semplificare la posizione o bloccare i pedoni, questi possono diventare una debolezza, rendendo il finale favorevole per il Nero.
   </p>
 </div>
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
@@ -105,7 +105,7 @@ title: structure-map - hanging-pawns 1
 title: structure-map - hanging-pawns 2
 ---
 
-# ♟️ Mappe Strategiche: centro sospeso
+# ♟️ Mappe Strategiche: pedoni sospesi
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
   <div class="flex flex-col items-center">
