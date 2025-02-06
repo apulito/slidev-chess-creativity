@@ -17,3 +17,115 @@ title: structure-map
 <script setup>
   import PieChart from '../components/Chart.vue';
 </script>
+
+---
+title: structure-map - isolani-pawn 1
+---
+
+# ♟️ Mappe Strategiche: pedone isolato
+
+<div class="mt-6 text-left">
+  <p class="text-base text-gray-500 leading-relaxed">
+    È una struttura pedonale fondamentale che compare in molte aperture, Gambetto di Donna, Slava, Difesa Tarrasch, Siciliana Alapin, Francese Tarrasch. In generale, in questo caso, il Bianco ha migliori prospettive nel mediogioco, grazie alla sua attività e al controllo centrale, mentre il Nero punta a un finale più favorevole, dove il pedone isolato può diventare una debolezza.
+  </p>
+</div>
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <div class="relative flex flex-col items-center">
+      <img src="../images/isolani-pawn.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+
+  <div class="flex flex-col items-center">    
+    <div class="relative flex flex-col items-center">
+      <img src="../images/isolani-pawn-2.jpg" alt="Diagramma 2" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+</div>
+
+<Footer />
+
+---
+title: structure-map - isolani-pawn 2
+---
+
+# ♟️ Mappe Strategiche: pedone isolato
+
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <p class="text-sm font-semibold text-gray-500">Zvjaginsev,V - Vasquez,R - 2013</p>
+    <div class="relative flex flex-col items-center">
+      <img src="../images/zvjaginsev-vasquez-2013.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <p class="mt-2 text-xs">Posizione dopo 12...b5</p>
+    </div>
+  </div>
+
+  <div class="text-left">
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white">🔍 Piano tipico del Bianco</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Bianco può decidere di rompere al centro con la spinta in d5, per aprire le linee e ottenere l'iniziativa, oppure sacrificando un pedone con lo stesso obiettivo. Un altro piano è trasferire la torre sulla terza traversa per aumentare la pressione sull'arrocco.
+    </p>
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white mt-4">🔍 Piano tipico del Nero</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Nero, deve cercare di fissare il pedone isolato e aumentare la pressione sulla colonna aperta, senza però mantenere una condotta troppo passiva. Un'idea può essere ...a6, ...b5 e ...Ab7 per over-controllare la casa d5. Un'altra ...Te8, ...Af8, ...g6, Ag7 e puntare sul pedone d4.
+    </p>
+  </div>
+</div>
+
+<Footer />
+
+---
+title: structure-map - hanging-pawns 1
+---
+
+# ♟️ Mappe Strategiche: centro sospeso
+
+<div class="mt-6 text-left">
+  <p class="text-base text-gray-500 leading-relaxed">
+    Le posizioni con il centro sospeso derivano spesso da una posizione con pedone isolato, questa struttura offre al Bianco, in questo caso, un vantaggio nel mediogioco grazie al vantaggio di spazio e al controllo delle case centrali. Tuttavia, se il Nero riesce a semplificare la posizione o bloccare i pedoni, questi possono diventare una debolezza, rendendo il finale favorevole per il Nero.
+  </p>
+</div>
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <div class="relative flex flex-col items-center">
+      <img src="../images/hanging-pawns.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+
+  <div class="flex flex-col items-center">    
+    <div class="relative flex flex-col items-center">
+      <img src="../images/hanging-pawns-2.jpg" alt="Diagramma 2" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+</div>
+
+<Footer />
+
+---
+title: structure-map - hanging-pawns 2
+---
+
+# ♟️ Mappe Strategiche: centro sospeso
+
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
+    <div class="relative flex flex-col items-center">
+      <img src="../images/kasparov-portish-1983.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <p class="mt-2 text-xs">Posizione dopo 16...Na5</p>
+    </div>
+  </div>
+
+  <div class="text-left">
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white">🔍 Piano tipico del Bianco</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Bianco mira ad attaccare sull'ala di Re, con mosse come Ce5, Ac2, Dd3, mentre una torre può essere trasferita lungo la terza traversa, ad esempio con Te1-e3-h3. Un altro piano è la spinta d4-d5, utile sia per aprire linee d’attacco sia per ottenere un pedone passato pericoloso sulla colonna d.
+    </p>
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white mt-4">🔍 Piano tipico del Nero</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Nero, deve cercare di neutralizzare l'attacco semplificando o mettendo pressione sui pedoni centrali, cercando di bloccarli. Un'idea chiave è spezzare la struttura dei pedoni sospesi, sfruttando spinte come b6-b5 o e6-e5 per indebolire il controllo del Bianco sul centro.
+    </p>
+  </div>
+</div>
+
+<Footer />
