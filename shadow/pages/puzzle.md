@@ -35,7 +35,12 @@ title: puzzle - parte 1
   </div>  
   <div v-click="2" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Troianescu,O - Petrosian,T - 1953</p>
-    <img src="../images/troianescu-petrosian.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <div class="relative flex flex-col items-center">
+      <img src="../images/troianescu-petrosian.jpg" alt="Diagram 2" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <span class="absolute -top-3 px-2 pl-1.5 py-0.5 bg-blue-500 text-white text-[9px] font-semibold rounded-full flex items-center shadow-md">
+        ⭐ Masterpiece
+      </span>
+    </div>
     <p class="mt-2 text-xs">Posizione dopo 25.Ne3</p>
   </div>
   <div v-click="3" class="flex flex-col items-center">
