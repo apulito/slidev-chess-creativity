@@ -24,7 +24,12 @@ title: puzzle - parte 1
 <div class="grid grid-cols-3 gap-4 items-center justify-center mt-12">
   <div v-click="1" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Tal,M - Simagin,V - 1956</p>
-    <img src="../images/tal-simagin-1956.jpg" alt="Diagram 1" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    <div class="relative flex flex-col items-center">
+      <img src="../images/tal-simagin-1956.jpg" alt="Diagram 1" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <span class="absolute -top-3 px-2 pl-1.5 py-0.5 bg-blue-500 text-white text-[9px] font-semibold rounded-full flex items-center shadow-md">
+              ⭐ Masterpiece
+      </span>      
+    </div>
     <p class="mt-2 text-xs">Posizione dopo 11...h6</p>
   </div>  
   <div v-click="2" class="flex flex-col items-center">
@@ -61,10 +66,10 @@ title: puzzle - parte 2
   <div v-click="3" class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Keres,P - Tal,M - 1957</p>
     <div class="relative flex flex-col items-center">
-        <img src="../images/keres-tal-1959.jpg" alt="Diagram 6" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-        <span class="absolute -top-3 px-2 pl-1.5 py-0.5 bg-blue-500 text-white text-[9px] font-semibold rounded-full flex items-center shadow-md">
-            ⭐ Masterpiece
-        </span>
+      <img src="../images/keres-tal-1959.jpg" alt="Diagram 6" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <span class="absolute -top-3 px-2 pl-1.5 py-0.5 bg-blue-500 text-white text-[9px] font-semibold rounded-full flex items-center shadow-md">
+          ⭐ Masterpiece
+      </span>
     </div>    
     <p class="mt-2 text-xs">Posizione dopo 28.Ba6</p>
   </div>  
