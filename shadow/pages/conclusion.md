@@ -20,7 +20,7 @@ title: Conclusion - Caos
         <li>
           <span class="font-semibold"> 🏰 Posizionale </span>
           <p class="mt-1 text-sm text-gray-500">
-            Sfruttare le posizioni in cui l'avversario non ha ancora arroccato o il Re, pur avendo arroccato, risulta vulnerabile. Attaccare con decisione per trarre vantaggio dalla debolezza difensiva.
+            Sfruttare le posizioni in cui si può sacrificare materiale per ottenere compensazioni posizionali a lungo termine: dominio di case chiave, limitazione delle risorse avversarie.
           </p>
         </li>
       </ul>
