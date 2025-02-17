@@ -129,3 +129,32 @@ title: structure-map - hanging-pawns 2
 </div>
 
 <Footer />
+
+---
+title: structure-map - carlsbad 3
+---
+
+# ♟️ Mappe Strategiche: struttura carlsbad
+
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
+    <div class="relative flex flex-col items-center">
+      <img src="../images/kasparov-portish-1983.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <p class="mt-2 text-xs">Posizione dopo 16...Na5</p>
+    </div>
+  </div>
+
+  <div class="text-left">
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white">🔍 Piano tipico del Bianco</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Bianco mira ad attaccare sull'ala di Re, con mosse come Ce5, Ac2, Dd3, mentre una torre può essere trasferita lungo la terza traversa, ad esempio con Te1-e3-h3. Un altro piano è la spinta d4-d5, utile sia per aprire linee d’attacco sia per ottenere un pedone passato pericoloso sulla colonna d.
+    </p>
+    <h4 class="text-xl font-semibold text-gray-800 dark:text-white mt-4">🔍 Piano tipico del Nero</h4>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+      Il Nero, deve cercare di neutralizzare l'attacco semplificando o mettendo pressione sui pedoni centrali, cercando di bloccarli. Un'idea chiave è spezzare la struttura dei pedoni sospesi, sfruttando spinte come b6-b5 o e6-e5 per indebolire il controllo del Bianco sul centro.
+    </p>
+  </div>
+</div>
+
+<Footer />
