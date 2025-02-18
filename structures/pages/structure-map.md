@@ -136,6 +136,33 @@ title: structure-map - carlsbad 3
 
 # ♟️ Mappe Strategiche: struttura carlsbad
 
+<div class="mt-6 text-left">
+  <p class="text-base text-gray-500 leading-relaxed">
+    La struttura Carlsbad è una delle configurazioni pedonali più conosciute e studiate. È particolarmente nota nella Variante di Cambio del Gambetto di Donna ma può emergere anche da altre aperture di Donna, come la Nimzo e la Grunfeld. Inoltre, può presentarsi attraverso diversi ordini di mosse e, in alcuni casi, anche a colori invertiti, come nella variante di cambio della Caro-Kann o nella Scandinava.
+  </p>
+</div>
+<div class="grid grid-cols-2 gap-4 items-center mt-4">
+  <div class="flex flex-col items-center">
+    <div class="relative flex flex-col items-center">
+      <img src="../images/carlsbad.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+
+  <div class="flex flex-col items-center">    
+    <div class="relative flex flex-col items-center">
+      <img src="../images/carlsbad-2.jpg" alt="Diagramma 2" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+    </div>
+  </div>
+</div>
+
+<Footer />
+
+---
+title: structure-map - carlsbad 4
+---
+
+# ♟️ Mappe Strategiche: struttura carlsbad
+
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
   <div class="flex flex-col items-center">
     <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
@@ -148,11 +175,9 @@ title: structure-map - carlsbad 3
   <div class="text-left">
     <h4 class="text-xl font-semibold text-gray-800 dark:text-white">🔍 Piano tipico del Bianco</h4>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-      Il Bianco mira ad attaccare sull'ala di Re, con mosse come Ce5, Ac2, Dd3, mentre una torre può essere trasferita lungo la terza traversa, ad esempio con Te1-e3-h3. Un altro piano è la spinta d4-d5, utile sia per aprire linee d’attacco sia per ottenere un pedone passato pericoloso sulla colonna d.
     </p>
     <h4 class="text-xl font-semibold text-gray-800 dark:text-white mt-4">🔍 Piano tipico del Nero</h4>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-      Il Nero, deve cercare di neutralizzare l'attacco semplificando o mettendo pressione sui pedoni centrali, cercando di bloccarli. Un'idea chiave è spezzare la struttura dei pedoni sospesi, sfruttando spinte come b6-b5 o e6-e5 per indebolire il controllo del Bianco sul centro.
     </p>
   </div>
 </div>
