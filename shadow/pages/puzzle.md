@@ -106,7 +106,7 @@ title: puzzle - parte 3
     <p class="mt-2 text-xs">Posizione dopo 12...Bh3</p>
   </div>
   <div v-click="3" class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Petrosian,T - Fischer,R - 1992</p>
+    <p class="text-sm font-semibold text-gray-500">Petrosian,T - Fischer,R - 1971</p>
     <img src="../images/petrosian-fischer.jpg" alt="Diagram 9" class="w-48 h-48 object-cover rounded-lg shadow-md border-2 border-gray-300" />
     <p class="mt-2 text-xs">Posizione dopo 24...e2</p>
   </div>
