@@ -165,19 +165,21 @@ title: structure-map - carlsbad 4
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
   <div class="flex flex-col items-center">
-    <p class="text-sm font-semibold text-gray-500">Kasparov,G - Portish,L - 1983</p>
+    <p class="text-sm font-semibold text-gray-500">San Segundo Carrillo, P - Pigusov,E - 1994</p>
     <div class="relative flex flex-col items-center">
-      <img src="../images/kasparov-portish-1983.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
-      <p class="mt-2 text-xs">Posizione dopo 16...Na5</p>
+      <img src="../images/san-segundo-pigusov-1994.jpg" alt="Diagramma 1" class="w-64 h-64 object-cover rounded-lg shadow-md border-2 border-gray-300" />
+      <p class="mt-2 text-xs">Posizione dopo 15...b5</p>
     </div>
   </div>
 
   <div class="text-left">
     <h4 class="text-xl font-semibold text-gray-800 dark:text-white">🔍 Piano tipico del Bianco</h4>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+    In questa posizione, il Bianco può optare per l'attacco di minoranza (come ha fatto), avanzando con b2-b4-b5 per indebolire il lato di Donna. In alternativa preparare la spinta in e3-e4 per guadagnare spazio al centro. In generale, il carattere della posizione può cambiare notevolmente a seconda se i pedoni del Nero sono disposti in a7-b6-c7 o a6-b7-c6.
     </p>
     <h4 class="text-xl font-semibold text-gray-800 dark:text-white mt-4">🔍 Piano tipico del Nero</h4>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+    Un piano del Nero è giocare b7-b6 seguito da c6-c5, passando ad una struttura con pedoni sospesi. In alcuni casi, invece, il Nero gioca direttamente c6-c5, e dopo dxc5, otterrà un pedone isolato. Un'idea meno frequente è la spinta b7-b5, una volta che il Bianco ha spinto b2-b4, per creare un solido avamposto per un cavallo in c4.
     </p>
   </div>
 </div>
