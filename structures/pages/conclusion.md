@@ -6,7 +6,7 @@ title: Conclusion - Structures
 
 <div class="mt-6 text-left">
   <p class="text-lg text-gray-500 mb-6">
-    Per sviluppare una comprensione più profonda delle strutture pedonali, è utile sapere come riconoscerle, sfruttarle e modificarle consapevolmente. Inoltre, le strutture pedonali non si limitano all'apertura: riconoscerne le dinamiche permette di sviluppare piani efficaci indipendentemente dalla fase iniziale.
+    Per sviluppare una comprensione più profonda delle strutture pedonali, è utile sapere come riconoscerle, sfruttarle e modificarle consapevolmente. Inoltre, le strutture pedonali non si limitano all'apertura: riconoscerne le dinamiche permette di sviluppare piani efficaci <span v-mark.red="1">indipendentemente</span> dalla fase iniziale. Questa consapevolezza rafforza la solidità strategica e apre la strada a soluzioni creative e imprevedibili.
   </p>
   <div class="grid grid-cols-2 gap-6">
     <div>
