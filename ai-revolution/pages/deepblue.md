@@ -87,7 +87,7 @@ title: ai revolution - deep blue
 title: ai revolution - deep blue - puzzle 1
 ---
 
-# ♟️ La Sfida del secolo
+# 🎭 La Sfida del secolo
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
 
@@ -117,7 +117,7 @@ title: ai revolution - deep blue - puzzle 1
 title: ai revolution - deep blue - puzzle 2
 ---
 
-# ♟️ La Sfida del secolo
+# 🎭 La Sfida del secolo
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
 
