@@ -2,7 +2,7 @@
 title: ai revolution - alphazero - parte 1
 ---
 
-# ♟️ AlphaZero e la struttura Carlsbad
+# ♟️ AlphaZero contro Stockfish
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
 
@@ -32,7 +32,7 @@ title: ai revolution - alphazero - parte 1
 title: ai revolution - alphazero - parte 2
 ---
 
-# ♟️ AlphaZero e la struttura Carlsbad
+# ♟️ AlphaZero contro Stockfish
 
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
    

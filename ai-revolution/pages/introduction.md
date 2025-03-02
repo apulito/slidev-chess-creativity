@@ -28,7 +28,7 @@ title: ai revolution - intro - parte 2
 
 <div class="grid grid-cols-2 gap-12 mt-6"> 
   <div class="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg shadow-md"> 
-    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Kasparov contro Deep Blue</h3> 
+    <h3 class="text-lg font-semibold text-gray-900 dark:text-white">La Sfida del secolo</h3> 
     <p class="text-base leading-relaxed"> La sfida di Kasparov contro Deep Blue, simbolo della creatività umana contro la potenza computazionale.</p> 
   </div> 
   <div class="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg shadow-md"> 
