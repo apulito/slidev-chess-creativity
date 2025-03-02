@@ -1,5 +1,5 @@
 ---
-title: Conclusion - part 1
+title: ai revolution - conclusion - part 1
 ---
 
 # 🔑 Conclusioni e punti chiave
@@ -7,7 +7,7 @@ title: Conclusion - part 1
 <Footer />
 
 ---
-title: Conclusion - part 2
+title: ai revolution - conclusion - part 2
 ---
 
 # 🔑 Conclusioni e punti chiave
