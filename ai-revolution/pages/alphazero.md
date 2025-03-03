@@ -4,6 +4,29 @@ title: ai revolution - alphazero - parte 1
 
 # ♟️ AlphaZero contro Stockfish
 
+<div class="mt-6 text-left">
+  <p class="text-lg text-gray-500 leading-relaxed">
+    AlphaZero sconfisse il motore di scacchi più forte dell’epoca, Stockfish 8, in un match di 100 partite nel dicembre 2017 (ottenendo 28 vittorie, 72 patte e zero sconfitte). Questo risultato segnò un punto di svolta, poiché AlphaZero non utilizzava il tradizionale approccio a forza bruta, ma una rete neurale addestrata tramite auto-apprendimento. 
+  </p>
+  
+  <blockquote class="border-l-4 border-blue-500 pl-4 text-gray-500">
+    "È un risultato notevole...Si avvicina al Tipo B, l'approccio semi-umano alle macchine sognato da Claude Shannon e Alan Turing al posto della forza bruta"
+    <footer class="text-sm text-gray-500 mt-2">- Garry Kasparov</footer>
+  </blockquote>
+
+  <p class="text-lg text-gray-500 leading-relaxed mt-4"> 
+  L’idea di macchine in grado di giocare a scacchi senza basarsi su regole pre-programmate affonda le radici nel lavoro dei padri dell’era digitale. Von Neumann, Wiener, Turing e Shannon possono essere considerati i precursori dei moderni motori scacchistici basati sull’intelligenza artificiale, come AlphaZero. 
+  </p>
+</div>
+
+<Footer />
+
+---
+title: ai revolution - alphazero - parte 2
+---
+
+# ♟️ AlphaZero contro Stockfish
+
 <div class="grid grid-cols-2 gap-4 items-center mt-4">
 
   <div class="text-left">
@@ -29,7 +52,7 @@ title: ai revolution - alphazero - parte 1
 <Footer />
 
 ---
-title: ai revolution - alphazero - parte 2
+title: ai revolution - alphazero - parte 3
 ---
 
 # ♟️ AlphaZero contro Stockfish
