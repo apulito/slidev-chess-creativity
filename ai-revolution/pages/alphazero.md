@@ -34,7 +34,7 @@ title: ai revolution - alphazero - parte 2
     La struttura Carlsbad, vista in <span class="text-blue-400 font-semibold">Mappe Strategiche: struttura Carlsbad</span>, offre al Nero piani posizionali classici, come regola generale, il Nero cerca di rispondere al piano Ce2, f3-e4 con c5, soprattutto perché f3 indebolisce e3 e d4.
     </p>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-    Tuttavia, nel match tra Stockfish e AlphaZero, quest'ultimo ha dimostrato che anche in una posizione così consolidata si possono trovare piani creativi.
+    Tuttavia, nel match tra Stockfish v8 e AlphaZero, quest'ultimo ha dimostrato che anche in una posizione così consolidata si possono trovare piani creativi.
     </p>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
     Ha dimostrato che è possibile evolvere la strategia tradizionale, introducendo nuovi elementi creativi anche in una struttura così consolidata.

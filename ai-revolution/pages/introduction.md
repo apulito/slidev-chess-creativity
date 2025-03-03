@@ -33,11 +33,8 @@ title: ai revolution - intro - parte 2
   </div> 
   <div class="bg-gray-50 dark:bg-gray-900 p-6 rounded-lg shadow-md"> 
     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">AlphaZero contro Stockfish</h3> 
-    <p class="text-base leading-relaxed"> La rivoluzione di AlphaZero contro Stockfish, dove AlphaZero ha imparato a giocare da zero tramite l'auto-apprendimento.</p> 
+    <p class="text-base leading-relaxed"> La rivoluzione di AlphaZero contro Stockfish v8, dove AlphaZero ha imparato a giocare da zero tramite l'auto-apprendimento.</p> 
   </div> 
 </div> 
-
-<p class="text-lg text-gray-500 leading-relaxed mt-4"> Il cambio di paradigma introdotto prima da AlphaZero e poi da tutti i motori basati su reti neurali ha ridefinito i confini della creatività strategica, aprendo nuovi interrogativi sul ruolo dell’intuizione umana nell’era dell’intelligenza artificiale.
-</p>
 
 <Footer />
