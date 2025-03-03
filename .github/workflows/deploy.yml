@@ -71,6 +71,12 @@ jobs:
       - name: Export structures
         run: npx slidev export ./structures/slides.md --output ./dist/structures/downloads/structures.pdf --timeout 10000
       
+      # Build Creativity AI
+      - name: Build ai
+        run: |
+          nr build ./ai-revolution/slides.md --base /${{github.event.repository.name}}/ai-revolution/ --out ../dist/ai-revolution
+          npx slidev export ./ai-revolution/slides.md --output ./dist/ai-revolution/downloads/ai-revolution.pdf
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
