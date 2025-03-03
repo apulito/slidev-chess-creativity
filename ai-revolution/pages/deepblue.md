@@ -4,7 +4,7 @@ title: ai revolution - deep blue
 
 # 🎭 La Sfida del secolo
 <div>
-    <h4 class="text-lg font-semibold text-gray-300 mb-2">Match del 1996</h4>
+    <h4 class="text-lg font-semibold text-gray-500 mb-2">Match del 1996</h4>
     <table class="table-auto text-sm">
     <thead>
         <tr>
@@ -42,7 +42,7 @@ title: ai revolution - deep blue
     </tbody>
     </table>
     <br>
-    <h4 class="text-lg font-semibold text-gray-300 mb-2">Rematch del 1997</h4>
+    <h4 class="text-lg font-semibold text-gray-500 mb-2">Rematch del 1997</h4>
     <table class="table-auto text-sm">
     <thead>
         <tr>
@@ -123,10 +123,13 @@ title: ai revolution - deep blue - puzzle 2
 
   <div class="text-left">
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-    Il pedone isolato, visto in <span class="text-blue-400 font-semibold">Mappe Strategiche: pedone isolato</span>, può essere affrontato dal Nero in modi diversi. Tra le varie frecce all’arco del Nero, una delle strategie più comuni è la semplificazione, cercando di cambiare i pezzi per entrare in un finale favorevole.
+    Il pedone isolato, come visto in <span class="text-blue-400 font-semibold">Mappe Strategiche: pedone isolato</span>, può essere affrontato dal Nero in diversi modi. Una delle strategie più comuni è quella di bloccarlo fin da subito, controllando attentamente la spinta d4-d5 per limitarne l'attività. 
     </p>
     <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
-    Il Nero può pianificare di cambiare il Cc3 a patto che riesca a fissare la struttura pedonale del Bianco ed il pedone in c3 può diventare un bersaglio, soprattutto se il Bianco non riesce a sviluppare contromosse dinamiche.
+    In alternativa, il Nero può puntare alla semplificazione, cercando di cambiare i pezzi e avviarsi verso un finale favorevole, dove il pedone isolato diventa una debolezza più evidente.
+    </p>
+    <p class="mt-2 text-sm text-gray-600 dark:text-gray-400">
+    Il Nero può scegliere di cambiare un pezzo in c3, inducendo bxc3. Questo elimina la debolezza del Bianco in d4, ma allo stesso tempo gli permette di spostare l'attenzione sul pedone arretrato in c3, che potrebbe diventare un bersaglio, soprattutto se il Bianco non riesce a creare un adeguato controgioco dinamico.
     </p>
   </div>
   <div v-click="1" class="flex flex-col items-center">

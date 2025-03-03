@@ -19,6 +19,10 @@ src: ./pages/alphazero.md
 ---
 
 ---
+src: ./pages/human-being.md
+---
+
+---
 src: ./pages/conclusion.md
 ---
 

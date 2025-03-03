@@ -57,6 +57,31 @@ title: ai revolution - advice parte 3
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
+    <h2 class="text-xl font-semibold text-gray-500">Gli scacchi tra fosforo e silicio</h2>
+    <p class="mt-2 text-sm text-gray-400">
+      <span class="font-semibold">Autore:</span> Enrico Pepino, Nicola Vozza<br>
+      <span class="font-semibold">Editore:</span> Le due torri
+    </p>
+    <p class="mt-4 text-base text-gray-600">
+      Questo libro esplora il confronto tra intuizione umana e calcolo artificiale, analizzando partite giocate e confrontandole con le valutazioni dei motori scacchistici. Gli autori mettono in luce il modo in cui l’essere umano prende decisioni, evidenziando differenze rispetto all'analisi fredda dei moderni software. Un viaggio nel rapporto tra creatività e precisione computazionale.
+    </p>
+  </div>
+  <div class="flex justify-center mt-4">
+    <img src="../images/fosforo-silicio.jpg" alt="Eterna sfida" 
+      class="max-w-[250px] h-auto rounded-lg shadow-md border border-gray-300" />
+  </div>
+</div>
+
+<Footer />
+
+---
+title: ai revolution - advice parte 4
+---
+
+# 📚 Approfondimenti 
+
+<div class="grid grid-cols-2 gap-8">
+  <div class="mt-4">
     <h2 class="text-xl font-semibold text-gray-500">Game Changer</h2>
     <p class="mt-2 text-sm text-gray-400">
       <span class="font-semibold">Autore:</span> Matthew Sadler, Natasha Regan <br>
@@ -75,7 +100,7 @@ title: ai revolution - advice parte 3
 <Footer />
 
 ---
-title: ai revolution - advice parte 4
+title: ai revolution - advice parte 5
 ---
 
 # 📚 Approfondimenti
