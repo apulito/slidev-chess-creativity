@@ -63,7 +63,7 @@ title: ai revolution - advice parte 3
       <span class="font-semibold">Editore:</span> Le due torri
     </p>
     <p class="mt-4 text-base text-gray-600">
-      Questo libro esplora il confronto tra intuizione umana e calcolo artificiale, analizzando partite giocate e confrontandole con le valutazioni dei motori scacchistici. Gli autori mettono in luce il modo in cui l’essere umano prende decisioni, evidenziando differenze rispetto all'analisi fredda dei moderni software. Un viaggio nel rapporto tra creatività e precisione computazionale.
+      Pubblicato nel 2010, questo libro analizza il rapporto tra intuizione umana e calcolo artificiale, esaminando partite giocate e confrontandole con le valutazioni proposte dai motori. Gli autori mettono in luce il modo in cui l’essere umano prende decisioni, evidenziando le differenze rispetto all’analisi fredda e oggettiva dei software dell’epoca, basati sul calcolo a forza bruta. Un viaggio affascinante tra creatività e precisione computazionale.
     </p>
   </div>
   <div class="flex justify-center mt-4">
