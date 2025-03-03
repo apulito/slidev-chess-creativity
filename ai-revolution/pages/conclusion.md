@@ -1,13 +1,34 @@
 ---
-title: Conclusion - part 1
+title: ai revolution - conclusion - part 1
 ---
 
 # 🔑 Conclusioni e punti chiave
 
+<div class="mt-6 text-left"> 
+  <p class="text-lg text-gray-500 mb-6"> L'intelligenza artificiale ha ridefinito il gioco degli scacchi, introducendo nuove idee e strategie prima impensabili. Tuttavia, la creatività umana rimane un elemento essenziale, capace di esplorare territori sconosciuti e prendere decisioni che sfuggono alla logica algoritmica. 
+  </p> 
+  <div class="grid grid-cols-1 gap-6"> 
+    <div> 
+      <ul class="space-y-4"> 
+        <li> 
+          <span class="font-semibold">🤖 L'evoluzione dell'Intelligenza Artificiale</span> 
+          <p class="mt-1 text-sm text-gray-500"> Dai primi motori basati sulla forza bruta fino ad AlphaZero, il cambio di paradigma ha portato a una maggiore "intuizione artificiale", con strategie più fluide e meno forzate. 
+          </p> 
+        </li> 
+        <li> 
+        <span class="font-semibold">♟️ L'impatto sui giocatori</span> 
+          <p class="mt-1 text-sm text-gray-500"> I motori hanno profondamente trasformato la preparazione, offrendo nuovi spunti e ridefinendo il concetto stesso di creatività e innovazione negli scacchi. Alcune conoscenze emerse grazie alla loro analisi sono completamente nuove, portando idee mai considerate prima e ampliando il modo in cui interpretiamo il gioco.
+          </p> 
+          </li> 
+        </ul> 
+    </div>
+  </div>
+</div>
+
 <Footer />
 
 ---
-title: Conclusion - part 2
+title: ai revolution - conclusion - part 2
 ---
 
 # 🔑 Conclusioni e punti chiave
