@@ -74,7 +74,7 @@ title: puzzle - parte 1 extra
 title: puzzle - parte 2 
 ---
 
-# 🧩 Diagrammi parte 2 
+# 🧩 Diagrammi parte 2
 
 <div class="grid grid-cols-3 gap-4 items-center justify-center mt-12">
   <div v-click="1" class="flex flex-col items-center">

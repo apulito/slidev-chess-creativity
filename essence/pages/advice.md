@@ -2,7 +2,7 @@
 title: essence - advice parte 1
 ---
 
-# 📚 Approfondimenti 
+# 📚 Approfondimenti
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
@@ -27,7 +27,7 @@ title: essence - advice parte 1
 title: essence - advice parte 2
 ---
 
-# 📚 Approfondimenti 
+# 📚 Approfondimenti
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
@@ -72,5 +72,3 @@ title: essence - advice parte 3
 </div>
 
 <Footer />
-
-

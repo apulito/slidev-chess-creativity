@@ -67,4 +67,4 @@ title: Mental approach
     </div>
 </div>
 
-<Footer /> 
+<Footer />
