@@ -28,6 +28,7 @@ presenter: false
 # theme id, package name, or local path
 theme: seriph
 title: Creativity caos
+transition: none
 ---
 
 # La Creatività nel Caos

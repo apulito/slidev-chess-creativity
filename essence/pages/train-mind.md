@@ -1,5 +1,6 @@
 ---
 title: train-mind - parte 1
+transition: none
 ---
 
 # 🧠 Allenamento per una solida creatività
@@ -48,6 +49,7 @@ title: train-mind - parte 1
 
 ---
 title: train-mind - parte 2
+transition: none
 ---
 # 🔄 Dal Pensiero Analitico all'Intuizione Creativa
 

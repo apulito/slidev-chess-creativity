@@ -28,6 +28,7 @@ presenter: false
 # theme id, package name, or local path
 theme: seriph
 title: Creativity essence
+transition: none
 ---
 
 # Scacchi e Creatività

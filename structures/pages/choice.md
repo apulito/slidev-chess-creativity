@@ -1,5 +1,6 @@
 ---
 title: choice
+transition: none
 ---
 
 # 🔍 Una scelta o una conseguenza
@@ -22,6 +23,7 @@ title: choice
 
 ---
 title: choice - puzzle
+transition: none
 ---
 
 # 🧩 Modificare la struttura per creare squilibri 

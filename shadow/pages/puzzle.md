@@ -1,5 +1,6 @@
 ---
 title: Intro puzzle
+transition: none
 ---
 
 # 🛡️ Sfide sulla Scacchiera
@@ -18,6 +19,7 @@ title: Intro puzzle
 
 ---
 title: puzzle - parte 1
+transition: none
 ---
 
 # 🧩 Diagrammi parte 1
@@ -54,6 +56,7 @@ title: puzzle - parte 1
 
 ---
 title: puzzle - parte 2
+transition: none
 ---
 
 # 🧩 Diagrammi parte 2
@@ -85,6 +88,7 @@ title: puzzle - parte 2
 
 ---
 title: puzzle - parte 3
+transition: none
 ---
 
 # 🧩 Diagrammi parte 3

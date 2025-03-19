@@ -1,5 +1,6 @@
 ---
 title: Intro puzzle
+transition: none
 ---
 
 # 🌟 Sfide sulla Scacchiera

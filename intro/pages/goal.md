@@ -1,5 +1,6 @@
 ---
 title: Goal
+transition: none
 ---
 
 # 🎯 Goal

@@ -1,5 +1,6 @@
 ---
 title: shadow - advice parte 1
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -28,6 +29,7 @@ title: shadow - advice parte 1
 
 ---
 title: essence - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti

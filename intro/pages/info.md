@@ -1,5 +1,6 @@
 ---
 title: Who am I?
+transition: none
 ---
 
 # 🙋‍♂️ Chi Sono

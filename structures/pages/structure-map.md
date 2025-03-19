@@ -1,5 +1,6 @@
 ---
 title: structure-map
+transition: none
 ---
 
 # ♟️ Mappe Strategiche

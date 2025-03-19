@@ -1,5 +1,6 @@
 ---
 title: Definition
+transition: none
 ---
 
 # 🎨 Cos'è la Creatività?

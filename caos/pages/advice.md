@@ -1,5 +1,6 @@
 ---
 title: tal - advice parte 1
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -25,6 +26,7 @@ title: tal - advice parte 1
 
 ---
 title: tal - advice parte 2
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -50,6 +52,7 @@ title: tal - advice parte 2
 
 ---
 title: tal - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti

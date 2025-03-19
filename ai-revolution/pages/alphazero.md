@@ -1,5 +1,6 @@
 ---
 title: ai revolution - alphazero - parte 1
+transition: none
 ---
 
 # ♟️ AlphaZero contro Stockfish
@@ -23,6 +24,7 @@ title: ai revolution - alphazero - parte 1
 
 ---
 title: ai revolution - alphazero - parte 2
+transition: none
 ---
 
 # ♟️ AlphaZero contro Stockfish
@@ -53,6 +55,7 @@ title: ai revolution - alphazero - parte 2
 
 ---
 title: ai revolution - alphazero - parte 3
+transition: none
 ---
 
 # ♟️ AlphaZero contro Stockfish

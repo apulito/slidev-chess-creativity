@@ -1,5 +1,6 @@
 ---
 title: essence - advice parte 1
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -25,6 +26,7 @@ title: essence - advice parte 1
 
 ---
 title: essence - advice parte 2
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -50,6 +52,7 @@ title: essence - advice parte 2
 
 ---
 title: essence - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti

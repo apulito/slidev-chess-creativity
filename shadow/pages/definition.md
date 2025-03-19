@@ -2,6 +2,7 @@
 layout: image-right
 image: ./petrosian_pic.jpg
 title: Definition
+transition: none
 ---
 
 # 🦾 Iron Tigran
