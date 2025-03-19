@@ -1,5 +1,6 @@
 ---
 title: ai revolution - conclusion - part 1
+transition: none
 ---
 
 # 🔑 Conclusioni e punti chiave
@@ -29,6 +30,7 @@ title: ai revolution - conclusion - part 1
 
 ---
 title: ai revolution - conclusion - part 2
+transition: none
 ---
 
 # 🔑 Conclusioni e punti chiave

@@ -1,5 +1,6 @@
 ---
 title: Conclusion - Structures
+transition: none
 ---
 
 # 🔑 Conclusioni e punti chiave

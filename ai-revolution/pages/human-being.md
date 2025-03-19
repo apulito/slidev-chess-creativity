@@ -1,5 +1,6 @@
 ---
 title: human being - parte 1
+transition: none
 ---
 
 # 🧠 Oltre il calcolo: il fattore umano
@@ -20,6 +21,7 @@ title: human being - parte 1
 
 ---
 title: human being - parte 2
+transition: none
 ---
 
 # 🧠 Oltre il calcolo: il fattore umano
@@ -40,6 +42,7 @@ title: human being - parte 2
 
 ---
 title: human being - parte 3
+transition: none
 ---
 
 # 🧠 Oltre il calcolo: il fattore umano
@@ -62,6 +65,7 @@ title: human being - parte 3
 
 ---
 title: human being - parte 4
+transition: none
 ---
 
 # 🧠 Oltre il calcolo: il fattore umano

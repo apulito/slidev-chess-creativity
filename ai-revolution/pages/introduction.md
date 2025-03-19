@@ -1,5 +1,6 @@
 ---
 title: ai revolution - intro - parte 1
+transition: none
 ---
 
 # 🚀 La Sfida
@@ -18,6 +19,7 @@ title: ai revolution - intro - parte 1
 
 ---
 title: ai revolution - intro - parte 2
+transition: none
 ---
 
 # 🚀 La Sfida

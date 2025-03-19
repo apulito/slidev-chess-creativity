@@ -1,5 +1,6 @@
 ---
 title: pawn structure - advice parte 1
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -26,6 +27,7 @@ title: pawn structure - advice parte 1
 
 ---
 title: pawn structure - advice parte 2
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -52,6 +54,7 @@ title: pawn structure - advice parte 2
 
 ---
 title: pawn structure - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti

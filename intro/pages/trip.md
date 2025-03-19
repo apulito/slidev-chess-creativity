@@ -1,5 +1,6 @@
 ---
 title: Trip
+transition: none
 ---
 
 # 🗺️ Il mio viaggio

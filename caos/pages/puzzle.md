@@ -1,5 +1,6 @@
 ---
 title: Introduzione al Caos
+transition: none
 ---
 
 # 🔥 Sfide sulla Scacchiera
@@ -17,6 +18,7 @@ title: Introduzione al Caos
 
 ---
 title: puzzle - parte 1
+transition: none
 ---
 
 # 🧩 Diagrammi parte 1
@@ -48,6 +50,7 @@ title: puzzle - parte 1
 
 ---
 title: puzzle - parte 2
+transition: none
 ---
 
 # 🧩 Diagrammi parte 2
@@ -79,6 +82,7 @@ title: puzzle - parte 2
 
 ---
 title: puzzle - parte 3
+transition: none
 ---
 
 # 🧩 Diagrammi parte 3

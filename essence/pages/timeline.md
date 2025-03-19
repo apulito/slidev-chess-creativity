@@ -1,5 +1,6 @@
 ---
 title: Timeline - parte 1
+transition: none
 ---
 
 # ⏳ L'evoluzione - parte uno
@@ -56,6 +57,7 @@ title: Timeline - parte 1
 
 ---
 title: Timeline - parte 2
+transition: none
 ---
 
 # ⏳ L'evoluzione - parte due
@@ -103,6 +105,7 @@ title: Timeline - parte 2
 
 ---
 title: Timeline - parte 3
+transition: none
 ---
 
 # ⏳ L'evoluzione - parte tre
@@ -150,6 +153,7 @@ title: Timeline - parte 3
 
 ---
 title: Timeline - parte 4
+transition: none
 ---
 
 # ⏳ L'evoluzione - parte quattro
