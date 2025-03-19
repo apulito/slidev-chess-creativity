@@ -1,8 +1,9 @@
 ---
 title: tal - advice parte 1
+transition: none
 ---
 
-# 📚 Approfondimenti 
+# 📚 Approfondimenti
 
 <div class="grid grid-cols-2 gap-8">
   <div class="mt-4">
@@ -25,6 +26,7 @@ title: tal - advice parte 1
 
 ---
 title: tal - advice parte 2
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -50,6 +52,7 @@ title: tal - advice parte 2
 
 ---
 title: tal - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti
@@ -72,5 +75,3 @@ title: tal - advice parte 3
 </div>
 
 <Footer />
-
-

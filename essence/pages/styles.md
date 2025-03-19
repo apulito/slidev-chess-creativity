@@ -1,5 +1,6 @@
 ---
 title: Styles
+transition: none
 ---
 
 # ♟️ Stili di Gioco
@@ -36,6 +37,7 @@ title: Styles
 
 ---
 title: Mental approach
+transition: none
 ---
 
 # 💡 Approcci
@@ -67,4 +69,4 @@ title: Mental approach
     </div>
 </div>
 
-<Footer /> 
+<Footer />

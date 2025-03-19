@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Agenda - parte 1
+transition: none
 ---
 
 # 📅 Agenda

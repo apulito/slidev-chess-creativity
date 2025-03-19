@@ -1,5 +1,6 @@
 ---
 title: ai revolution - deep blue
+transition: none
 ---
 
 # 🎭 La Sfida del secolo
@@ -85,6 +86,7 @@ title: ai revolution - deep blue
 
 ---
 title: ai revolution - deep blue - puzzle 1
+transition: none
 ---
 
 # 🎭 La Sfida del secolo
@@ -115,6 +117,7 @@ title: ai revolution - deep blue - puzzle 1
 
 ---
 title: ai revolution - deep blue - puzzle 2
+transition: none
 ---
 
 # 🎭 La Sfida del secolo

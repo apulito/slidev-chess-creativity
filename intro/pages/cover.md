@@ -28,10 +28,13 @@ presenter: false
 # theme id, package name, or local path
 theme: seriph
 title: Chess and creativity intro
+transition: none
 ---
 
-# Scacchi e Creatività  
-## L'arte di pensare fuori dagli schemi   
+# Scacchi e Creatività
+
+## L'arte di pensare fuori dagli schemi
+
 <span class="text-sm opacity-70">Un viaggio per sviluppare e liberare la creatività nel gioco.</span>
 
 <div @click="$slidev.nav.next" class="absolute bottom-6 right-6 text-xl py-1" hover:bg="white op-10">

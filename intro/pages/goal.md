@@ -1,5 +1,6 @@
 ---
 title: Goal
+transition: none
 ---
 
 # 🎯 Goal
@@ -16,6 +17,6 @@ title: Goal
     <h3 class="text-lg font-semibold text-gray-900 dark:text-white">Allenare la Creatività</h3> 
     <p class="text-base leading-relaxed"> Non esiste una formula magica per migliorare la creatività, ma ci sono strumenti e metodi per allenarla. L'obiettivo è stimolare l'immaginazione, fornire ispirazione e guidare verso la scoperta di uno stile unico e personale. </p> 
   </div> 
-</div> 
+</div>
 
 <Footer />

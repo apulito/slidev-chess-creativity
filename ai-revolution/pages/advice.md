@@ -1,5 +1,6 @@
 ---
 title: ai revolution - advice parte 1
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -26,6 +27,7 @@ title: ai revolution - advice parte 1
 
 ---
 title: ai revolution - advice parte 2
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -51,6 +53,7 @@ title: ai revolution - advice parte 2
 
 ---
 title: ai revolution - advice parte 3
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -76,6 +79,7 @@ title: ai revolution - advice parte 3
 
 ---
 title: ai revolution - advice parte 4
+transition: none
 ---
 
 # 📚 Approfondimenti 
@@ -101,6 +105,7 @@ title: ai revolution - advice parte 4
 
 ---
 title: ai revolution - advice parte 5
+transition: none
 ---
 
 # 📚 Approfondimenti

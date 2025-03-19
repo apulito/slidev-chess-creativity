@@ -1,5 +1,6 @@
 ---
 title: Definition
+transition: none
 ---
 
 # 🌱 Radici della Creatività

@@ -1,5 +1,6 @@
 ---
 title: Conclusion - Caos
+transition: none
 ---
 
 # 🔑 Conclusioni e punti chiave

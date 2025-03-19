@@ -2,6 +2,7 @@
 layout: image-right
 image: ./tal_pic.jpg
 title: Definition
+transition: none
 ---
 
 # 🧙‍♂️ Il Mago di Riga

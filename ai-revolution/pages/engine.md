@@ -1,5 +1,6 @@
 ---
 title: ai revolution - engines
+transition: none
 ---
 
 # 🤖 Come funzionano i motori?
