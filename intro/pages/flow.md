@@ -1,5 +1,5 @@
 ---
-title: flow
+title: Flow
 ---
 
 # 📌 Come si sviluppa il percorso
