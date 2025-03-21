@@ -79,8 +79,9 @@ jobs:
 
       # Build Landing Page
       - name: Build landing page
-        run: |
-          nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist
+        run: |          
+          nr build ./index.md --base /${{github.event.repository.name}}/ --out ../dist/root
+          cp -r ../dist/root/* ../dist/
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
