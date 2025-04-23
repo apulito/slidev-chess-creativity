@@ -28,7 +28,7 @@ transition: none
             Stile solido e strategico, fondato sulla forza delle strutture e del controllo. I giocatori posizionali preferiscono evitare rischi tattici, puntando a migliorare gradualmente i propri pezzi.
         </p>
         <h4 class="mt-4 text-xs">Esempi:</h4>
-        <p class="text-xs">Capablanca, Botvinnik, Petrosjan, Fischer, Karpov, Kramnik, Gelfand.</p>
+        <p class="text-xs">Capablanca, Botvinnik, Petrosian, Fischer, Karpov, Kramnik, Gelfand.</p>
     </div>
 
 </div>
@@ -57,7 +57,7 @@ transition: none
             Un approccio basato su una visione combinativa e decisioni istantanee, derivante dalla profonda conoscenza dello spirito della posizione.
         </p>
         <h4 class="mt-4 text-xs">Esempi:</h4>
-        <p class="text-xs">Capablanca, Tal, Petrosian, Karpov, Carlsen.</p>
+        <p class="text-xs">Capablanca, Alekhine, Tal, Karpov, Carlsen.</p>
     </div>
     <div class="p-4 bg-gray-50 dark:bg-gray-900 border-l-4 border-green-500 shadow-lg rounded-lg">
         <h2 class="text-lg font-semibold text-green-500"> Analitici</h2>
@@ -65,7 +65,7 @@ transition: none
             Un approccio basato su piani profondi e calcoli accurati, che si riflette tanto nell'apertura quanto nelle altre fasi della partita, elaborando strategie a lungo termine.
         </p>
         <h4 class="mt-4 text-xs">Esempi:</h4>
-        <p class="text-xs">Botvinnik, Kasparov.</p>
+        <p class="text-xs">Steinitz, Botvinnik, Petrosian, Kasparov, Ding.</p>
     </div>
 </div>
 
